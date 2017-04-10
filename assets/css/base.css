@@ -4,5 +4,6 @@ main {
     top: 60px; /*same as header height*/
     bottom: 5px;
     overflow-y: scroll;
+    width: calc(100% - 47px);
 }
 
