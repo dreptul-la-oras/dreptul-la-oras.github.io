@@ -57,3 +57,16 @@
 #floatingHeader_List li a:hover {
     background-color: #AA2323;
 }
+
+#floatingHeader_List li a:link {
+    text-decoration:  none;
+    font-weight:      bold;
+    color:            white;
+}
+
+/* Applies to visited links */
+#floatingHeader_List li a:visited {
+    text-decoration:  none;
+    font-weight:      bold;
+    color:            white;
+}
