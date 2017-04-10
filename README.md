@@ -15,4 +15,4 @@ The following variables will be used to either add (marked `a`) to existing meta
     - `url` - the URL relative to the root of this project, prefixed with `/`
     - `width` - the width of this new image
     - `height` - the height of this new image
-    ` `type` - the type of this new image
+    - `type` - the type of this new image
