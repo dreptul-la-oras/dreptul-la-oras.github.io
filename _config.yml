@@ -1,0 +1,39 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Dreptul la Oraș
+author: Dreptul la Oraș
+description: > # this means to ignore newlines until "baseurl:"
+  Suntem un grup din Timișoara, organizat democratic și non-ierarhic, de analiza critică și acțiune directă. Vrem ca orașul să aparțină tuturor locuitorilor, prezenți și viitori, temporari și permanenti, privilegiați și marginalizati. Vrem un oraș just în care toți și toate, indiferent de clasă, etnie, gen, orientare sexuală, religie etc., să avem acces echitabil la resurse și servicii sociale. Un oraș în care participăm cu toții la luarea deciziilor și formularea politicilor publice, pentru că doar prin acest proces emancipator devenim cetățeni deplini. Un oraș care pune oamenii și natura înaintea profitului economic.
+short_description: >
+  Un grup din Timișoara, de analiză critică și acțiune directă, care luptă împotriva discriminării și inegalității sociale și economice.  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dreptullaoras.com" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Europe/Bucharest
+encoding: utf-8
+
+# custom variables
+path_favicons: "/assets/img/favicons"
+path_logos: "/assets/img/logos"
+path_img: "/assets/img"
+
+keywords: "Dreptul la Oraș,Dreptul la Oras,Right to the City,right,city,drept,oraș,oras,timișoara,timisoara,romania,romania,Romania, homelessness"
+# end custom variables
+
+css:
+  - /css/base.css
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+
