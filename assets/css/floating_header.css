@@ -1,0 +1,59 @@
+/* Contains all the styling for the floating header */
+#floatingHeader {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #191919;
+    height: 2.5em;
+    width: 100%;
+    float: left;
+
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+#floatingHeader div {
+    float: left;
+}
+
+#floatingHeader_Logo {
+    height: 1.8em;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+#floatingHeader_List {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding-left: 1em;
+    padding-top: 0.65em;
+    padding-bottom: 0.4em;
+
+}
+
+#floatingHeader_List ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#floatingHeader_List li {
+    /*this float left has to remain,
+    otherwise the list is not horizontal*/
+    float: left;
+}
+
+#floatingHeader_List li a {
+    display: block;
+    padding-right: 0.4em;
+    padding-left: 0.4em;
+    color: white;
+}
+
+#floatingHeader_List li a:hover {
+    background-color: #AA2323;
+}

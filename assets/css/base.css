@@ -1,0 +1,8 @@
+main {
+    padding: 20px;
+    position: fixed;
+    top: 60px; /*same as header height*/
+    bottom: 5px;
+    overflow-y: scroll;
+}
+

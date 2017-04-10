@@ -26,3 +26,10 @@
         <link rel="manifest" href="{{site.url}}{{site.path_favicons}}/manifest.json">
         <link rel="mask-icon" href="{{site.url}}{{site.path_favicons}}/safari-pinned-tab.svg" color="#5bbad5">
         <meta name="theme-color" content="#ffffff">
+
+        {% for css in site.css %}
+                <link href="{{ css }}" rel="stylesheet" type="text/css">
+        {% endfor %}
+        {% for css in page.css %}
+                <link href="{{ css }}" rel="stylesheet" type="text/css">
+        {% endfor %}
