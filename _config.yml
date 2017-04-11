@@ -24,7 +24,8 @@ keywords: "Dreptul la Oraș,Dreptul la Oras,Right to the City,right,city,drept,o
 
 css:
   - /assets/css/base.css
-  - /assets/css/floating_header.css
+  - /assets/css/header_floating.css
+  - /assets/css/footer_absolute.css
 
 # Build settings
 markdown: kramdown

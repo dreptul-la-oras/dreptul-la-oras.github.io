@@ -1,0 +1,29 @@
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #000000;
+    font-size: 1.2em;
+
+    height: 8em;
+    width: 100%;
+    float: left;
+}
+
+.footer_wrap {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    padding-top: 0.3em;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer_logo {
+    height: 4em;
+    margin: 0 auto;
+    padding: 5px;
+}

@@ -1,11 +1,18 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 .pageCommons {
-    padding: 20px;
-    padding-top: 60px; /*same as header height*/
     margin: 0 auto;
     bottom: 5px;
     width: 70%;
     font-family: "Times New Roman", Times, serif;
     font-size: 18px;
+
+    padding: 20px;
+    padding-top: 5em; /*same as header height*/
+    padding-bottom: 9em; /*same as header height*/
 }
 
 .content {
