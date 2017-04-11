@@ -1,9 +1,9 @@
 main {
     padding: 20px;
-    position: fixed;
-    top: 60px; /*same as header height*/
+    padding-top: 60px; /*same as header height*/
+    margin: 0 auto;
     bottom: 5px;
-    overflow-y: scroll;
-    width: calc(100% - 47px);
+    width: 70%;
+
 }
 
