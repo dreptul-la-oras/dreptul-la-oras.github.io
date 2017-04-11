@@ -5,7 +5,7 @@ description: "Aici distingem între politică și mașinație statală. Practica
 date:   2017-01-22 16:16:01
 categories: essay
 image:  
-  url: /assets/img/logos/do_logo_black_on_red.png
+  url: /assets/img/logos/do_logo_red_on_black.png
 ---
 
 Acest text a fost scris în contextul protestelor împotriva legii grațierii și amnistiei din 22 ianuarie 2017. Pe urmă a fost distribuit protestatarilor din Piața Operei Timișoara, reprodus integral din acest punct:  
