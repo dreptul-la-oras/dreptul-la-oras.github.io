@@ -1,4 +1,4 @@
-main {
+.pageCommons {
     padding: 20px;
     padding-top: 60px; /*same as header height*/
     margin: 0 auto;
@@ -6,6 +6,9 @@ main {
     width: 70%;
     font-family: "Times New Roman", Times, serif;
     font-size: 18px;
+}
+
+.content {
 
 }
 
