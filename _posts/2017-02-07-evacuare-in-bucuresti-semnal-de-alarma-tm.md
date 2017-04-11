@@ -5,11 +5,11 @@ description: >
   A fi activi local nu exclude solidaritate față de locuitori din alte orașe, mai mult, este intolerabil că astfel de lucruri se pot întâmpla oriunde în lume, și este datoria noastră să ne împotrivim.  
 date:   2017-02-07 11:14:33
 categories: essay
-image:  
+image:
   url: /assets/img/essay/2017-02-07-evacuare-in-bucuresti-semnal-de-alarma-tm.png
-  type: "image/jpeg"
   width: 600
   height: 416
+  type: image/png
 ---
 
 Joi, 2 februarie 2017, au fost evacuate 6 familii, aproximativ 30–40 de persoane, din întreg complexul de casă veche de pe strada Sfinților nr.13 din București [1].  

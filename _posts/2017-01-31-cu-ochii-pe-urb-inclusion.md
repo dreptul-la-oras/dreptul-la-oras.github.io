@@ -5,11 +5,11 @@ description: >
   Timișoara participă la un proiect pan-European de îmbunătățire a orașului, și acest lucru ne dă  nouă cetățenilor o cale de implicare civică 
 date:   2017-01-31 12:14:33
 categories: essay
-image:  
+image:
   url: http://urbact.eu/sites/default/files/urbact-logo-baselineunder-site-255x89.jpg
-  type: "image/jpeg"
   width: 255
   height: 89
+  type: image/jpeg
 ---
 
 Timișoara va participa la proiectul european URB-Inclusion împreună cu alte 8 orașe [[1]](http://www.comune.torino.it/relint/progetti/ct1420/urb-inclusion---urb-inclusion---co-creating-new-im.shtml): Barcelona, Torino, Cracovia, Copenhaga, Glasgow, Lyon, Napoli, Trikala. Această decizie s-a luat în cadrul hotărârii 258/20.12.2016 a Consilului Local [[2]](http://www.primariatm.ro/hcl.php?unid=19AB0E58370F81E2C225808900303860).  
