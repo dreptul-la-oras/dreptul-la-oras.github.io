@@ -3,6 +3,8 @@ layout: main
 description: "Un grup din Timișoara, de analiză critică și acțiune directă, care luptă împotriva discriminării și inegalității sociale și economice."
 ---
 
+{% include latest.html %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut nisi maximus, placerat velit ac, maximus mauris. Nulla id tristique velit, id viverra nisi. Aenean turpis dui, mollis quis viverra sit amet, porta ut orci. Suspendisse vehicula ac tellus in congue. Curabitur sodales sodales fringilla. Pellentesque eget magna dapibus, condimentum ipsum vehicula, fringilla enim. Ut suscipit ultrices orci at auctor. Ut lorem velit, eleifend sit amet vulputate a, porta sit amet dolor. Maecenas dapibus efficitur accumsan. Sed sed mauris quis quam sodales pulvinar. Nullam nunc leo, porta et vehicula vel, dapibus nec lectus. Sed dapibus quis dolor a consectetur. Etiam lobortis non lectus vitae tristique.
 
 In nec consectetur nulla, quis lacinia elit. Sed eu lorem nec nibh pulvinar interdum nec non arcu. Curabitur vehicula augue non magna finibus, nec ultrices est ultricies. Phasellus et sodales turpis. Quisque tempor semper justo at finibus. Sed dictum orci enim, eu dapibus nulla maximus sed. Maecenas mi nibh, ornare vitae est quis, vulputate sollicitudin elit. Morbi ac elementum nisi, id suscipit nisi. Maecenas porttitor quis nulla consectetur consectetur. Etiam ac efficitur augue. Etiam tristique eu nunc fringilla placerat.

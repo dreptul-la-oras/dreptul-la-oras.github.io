@@ -6,6 +6,8 @@ title: About
 permalink: /about
 ---
 
+{% include latest.html %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare maximus lectus eu rutrum. Nam interdum bibendum arcu, at scelerisque elit porttitor eu. Nulla ut viverra mi, eget pharetra lectus. Maecenas venenatis felis ut sapien vehicula rutrum. Nullam lobortis velit eu tellus aliquam, et finibus neque dictum. Proin leo felis, tincidunt eget hendrerit vitae, laoreet a massa. Vestibulum interdum magna nec lacus mattis, vel ultrices libero molestie. Morbi pharetra justo mi, at dictum dui vulputate id.
 
 Maecenas dictum ex et venenatis ultrices. Ut nec interdum turpis. Pellentesque a molestie quam. Sed ut mi vel lorem volutpat commodo. Duis vel dui vulputate felis tincidunt bibendum. Duis non eros metus. Mauris viverra tellus neque, non porttitor nibh venenatis non. Sed sed urna in massa laoreet pellentesque ac a metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut fringilla mattis euismod. Donec vehicula pulvinar dapibus. Donec sollicitudin, tortor vel finibus efficitur, dolor metus malesuada ante, eu iaculis odio elit et enim. Aenean vehicula ipsum quis efficitur tristique. Praesent in mauris eu justo lobortis convallis.

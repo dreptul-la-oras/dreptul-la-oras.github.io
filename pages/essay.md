@@ -7,6 +7,7 @@ permalink: /essay
 css:
   - /assets/css/essay_tiles.css
 ---
+{% include latest.html %}
 
 <h2>Esee</h2>
 
