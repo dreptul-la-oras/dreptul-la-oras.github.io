@@ -1,7 +1,7 @@
 ---
 layout: main
 description: Esee scrise și redactate de Dreptul la Oraș
-keywords: "Lorem ipsum dolor sit amet."
+keywords: "essay,esee"
 title: Esee
 permalink: /essay
 css:

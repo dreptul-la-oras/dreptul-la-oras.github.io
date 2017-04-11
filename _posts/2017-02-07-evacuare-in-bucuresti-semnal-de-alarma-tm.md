@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Evacuare în București — semnal de alarmă și pentru Timișoara
+keywords: "evacuari fortate,gentrificare,rasism,rom,romi"
 description: >
   A fi activi local nu exclude solidaritate față de locuitori din alte orașe, mai mult, este intolerabil că astfel de lucruri se pot întâmpla oriunde în lume, și este datoria noastră să ne împotrivim.  
 date:   2017-02-07 11:14:33
