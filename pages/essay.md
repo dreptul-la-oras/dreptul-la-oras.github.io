@@ -16,7 +16,7 @@ css:
 	        <div class="pin">
 	            <div class="pinTitle">{{ post.date | date: "%d %B %Y" }}  &mdash; <a href="{{ post.url }}">{{ post.title }}</a></div>
 	            <p>{{ post.description }}</p>
-               <img src="{{ post.image }}"/>
+               <img src="{{ post.image.url }}"/>
 	        </div>
 	    {% endfor %}
 	</div>
