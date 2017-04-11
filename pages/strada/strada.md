@@ -1,9 +1,9 @@
 ---
 layout: main
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tempor diam, vel accumsan orci. Donec vitae finibus massa. Pellentesque."
-keywords: "Lorem ipsum dolor sit amet."
+description: În Timișoara trăiesc oameni fără adăpost, abandonați de familie, prieteni și societate. Credem că este important să aducem această realitate la vedere, deoarece prin conștientizare, expunere și informare putem construi împreună o societate mai echitabilă.
+keywords: "revista strada,strada,revista,magazine,primul numar,first issue,homelessness,poverty,saracia"
 title: Strada
-permalink: /strada
+permalink: /strada.html
 image:
   url: /assets/img/strada/issue_01/strada_01_cover.jpg
   width: 600
