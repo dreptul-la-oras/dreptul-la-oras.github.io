@@ -6,7 +6,7 @@ description: >
 date:   2017-01-31 12:14:33
 categories: essay
 image:
-  url: http://urbact.eu/sites/default/files/urbact-logo-baselineunder-site-255x89.jpg
+  url: /assets/img/essay/2017-01-31-cu-ochii-pe-urb-inclusion.jpg
   width: 255
   height: 89
   type: image/jpeg
