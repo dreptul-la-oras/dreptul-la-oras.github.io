@@ -14,9 +14,10 @@ css:
     <div id="columns">
         {% for post in site.posts %}
 	        <div class="pin">
-	            <div class="pinTitle">{{ post.date | date: "%d %B %Y" }}  &mdash; <a href="{{ post.url }}">{{ post.title }}</a></div>
+	            <div class="pinTitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
+	            <div class="pinDate">{{ post.date | date: "%d %B %Y" }}</div>
 	            <p>{{ post.description }}</p>
-               <img src="{{ post.image.url }}"/>
+	            <a href="{{ post.url }}"><img src="{{ post.image.url }}"/></a>
 	        </div>
 	    {% endfor %}
 	</div>

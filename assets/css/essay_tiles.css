@@ -38,11 +38,18 @@
 
 .pinTitle {
     width: 100%;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 15px;
+    padding-bottom: 7px;
     margin-bottom: 5px;
     font-size: 1.6em;
     font-weight: bold;
+}
+
+.pinDate {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 7px;
+    margin-bottom: 5px;
+    font-size: 1em;
 }
 
 .pin img {
@@ -55,4 +62,20 @@
     margin-bottom: 5px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 15px;
+}
+
+.pinTitle a:hover {
+    background-color: #A9A9A9;
+}
+
+.pinTitle a:link {
+    text-decoration: none;
+    font-weight: bold;
+    color: inherit;
+}
+
+.pinTitle a:visited {
+    text-decoration: none;
+    font-weight: bold;
+    color: inherit;
 }
