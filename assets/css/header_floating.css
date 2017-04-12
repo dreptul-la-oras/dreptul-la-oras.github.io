@@ -1,4 +1,3 @@
-/* Contains all the styling for the floating header */
 @media screen and (min-width: 480px) {
     .floating-header {
         position: fixed;

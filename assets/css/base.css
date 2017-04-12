@@ -6,13 +6,26 @@ html {
 /*
  * This basically sets the constraints for the content
  */
-.content-box {
-    width: 70%;
-    margin: auto;
+@media (max-width: 400px) {
+    .content-box {
+        width: 70%;
+        margin: auto;
 
-    padding-top: 4.1vmax; /*same as header height*/
-    padding-bottom: 9em; /*same as header height*/
+        padding-top: 8.2vmax; /*same as header height*/
+        padding-bottom: 9em; /*same as header height*/
+    }
 }
+
+@media (min-width: 400px) {
+    .content-box {
+        width: 90%;
+        margin: auto;
+
+        padding-top: 4.1vmax; /*same as header height*/
+        padding-bottom: 9em; /*same as header height*/
+    }
+}
+
 
 .content-commons {
     font-family: "Times New Roman", Times, serif;

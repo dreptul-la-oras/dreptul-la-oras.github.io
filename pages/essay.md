@@ -10,12 +10,12 @@ css:
 ---
 {% include latest_strada.html %}
 
-<div id="wrapper">
-    <div id="columns">
+<div class="essay-wrapper">
+    <div class="essay-columns">
         {% for post in site.posts %}
-	        <div class="pin">
-	            <div class="pinTitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
-	            <div class="pinDate">{{ post.date | date: "%d %B %Y" }}</div>
+	        <div class="essay-tile">
+	            <div class="essay-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+	            <div class="essay-date">{{ post.date | date: "%d %B %Y" }}</div>
 	            <p>{{ post.description }}</p>
 	            <a href="{{ post.url }}"><img src="{{ post.image.url }}"/></a>
 	        </div>
