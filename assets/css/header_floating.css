@@ -1,5 +1,5 @@
 /* Contains all the styling for the floating header */
-.floatingHeader {
+.floating-header {
     position: fixed;
     left: 0;
     right: 0;
@@ -13,17 +13,22 @@
     font-weight: bold;
 }
 
-.floatingHeader div {
+.floating-header-wrap {
+    width: 70%;
+    margin: auto;
+}
+
+.floating-header-wrap div {
     float: left;
 }
 
-.floatingHeader_Logo {
+.floating-header-logo {
     max-height: 3.6vmax;
     margin: 0 auto;
     padding: 0.2vmax;
 }
 
-.floatingHeader_List {
+.floating-header-list {
     width: auto;
     height: auto;
     margin: 0 auto;
@@ -33,14 +38,14 @@
 
 }
 
-.floatingHeader_List ul {
+.floating-header-list ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-.floatingHeader_List li {
+.floating-header-list li {
     /*this float left has to remain,
     otherwise the list is not horizontal*/
     float: left;
@@ -48,28 +53,28 @@
     padding-left: 0.4vmax;
 }
 
-.floatingHeader_List li a {
+.floating-header-list li a {
     display: block;
     color: white;
 }
 
-.floatingHeader_List li a:hover {
+.floating-header-list li a:hover {
     background-color: #AA2323;
 }
 
-.redBackground {
-    background-color: #AA2323;
-}
-
-.floatingHeader_List li a:link {
+.floating-header-list li a:link {
     text-decoration: none;
     font-weight: bold;
     color: white;
 }
 
 /* Applies to visited links */
-.floatingHeader_List li a:visited {
+.floating-header-list li a:visited {
     text-decoration: none;
     font-weight: bold;
     color: white;
+}
+
+.red-background {
+    background-color: #AA2323;
 }

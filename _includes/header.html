@@ -1,29 +1,32 @@
-<div class="floatingHeader">
-    <div>
-        <a href="{{ site.url }}">
-            <img src="{{ site.url }}/{{ site.path_logos }}/do_logo_red_on_zclear_100x100.png" class="floatingHeader_Logo">
-        </a>
-    </div>
+<div class="floating-header">
+    <div class="floating-header-wrap">
+        <div>
+            <a href="{{ site.url }}">
+                <img src="{{ site.url }}/{{ site.path_logos }}/do_logo_red_on_zclear_100x100.png"
+                     class="floating-header-logo">
+            </a>
+        </div>
 
-    <div class="floatingHeader_List">
-        <ul>
-            {% if page.id == "essay" %}
-            <li class="redBackground"><a href="{{ site.url }}/essay.html">esee</a></li>
-            {% else %}
-            <li><a href="{{ site.url }}/essay.html">esee</a></li>
-            {% endif %}
+        <div class="floating-header-list">
+            <ul>
+                {% if page.id == "essay" %}
+                <li class="red-background"><a href="{{ site.url }}/essay.html">esee</a></li>
+                {% else %}
+                <li><a href="{{ site.url }}/essay.html">esee</a></li>
+                {% endif %}
 
-            {% if page.id == "strada" %}
-            <li class="redBackground"><a href="{{ site.url }}/strada.html">revista strada</a></li>
-            {% else %}
-            <li><a href="{{ site.url }}/strada.html">revista strada</a></li>
-            {% endif %}
+                {% if page.id == "strada" %}
+                <li class="red-background"><a href="{{ site.url }}/strada.html">revista strada</a></li>
+                {% else %}
+                <li><a href="{{ site.url }}/strada.html">revista strada</a></li>
+                {% endif %}
 
-            {% if page.id == "about" %}
-            <li class="redBackground"><a href="{{ site.url }}/about.html">despre noi</a></li>
-            {% else %}
-            <li><a href="{{ site.url }}/about.html">despre noi</a></li>
-            {% endif %}
-        </ul>
+                {% if page.id == "about" %}
+                <li class="red-background"><a href="{{ site.url }}/about.html">despre noi</a></li>
+                {% else %}
+                <li><a href="{{ site.url }}/about.html">despre noi</a></li>
+                {% endif %}
+            </ul>
+        </div>
     </div>
 </div>
