@@ -8,7 +8,7 @@ permalink: /essay
 css:
   - /assets/css/essay_tiles.css
 ---
-{% include latest.html %}
+{% include latest_strada.html %}
 
 <div id="wrapper">
     <div id="columns">

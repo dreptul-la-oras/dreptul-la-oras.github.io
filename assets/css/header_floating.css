@@ -1,59 +1,59 @@
 /* Contains all the styling for the floating header */
-#floatingHeader {
+.floatingHeader {
     position: fixed;
     left: 0;
     right: 0;
     top: 0;
     background-color: #000000;
-    height: 2.5em;
+    height: 4vmax;
     width: 100%;
     float: left;
 
-    font-size: 1.6em;
+    font-size: 1.8vmax;
     font-weight: bold;
 }
 
-#floatingHeader div {
+.floatingHeader div {
     float: left;
 }
 
-#floatingHeader_Logo {
-    height: 1.8em;
+.floatingHeader_Logo {
+    max-height: 3.6vmax;
     margin: 0 auto;
-    padding: 5px;
+    padding: 0.2vmax;
 }
 
-#floatingHeader_List {
+.floatingHeader_List {
     width: auto;
     height: auto;
     margin: 0 auto;
-    padding-left: 1em;
-    padding-top: 0.65em;
-    padding-bottom: 0.4em;
+    padding-left: 1vmax;
+    padding-top: 0.8vmax;
+    padding-bottom: 0.4vmax;
 
 }
 
-#floatingHeader_List ul {
+.floatingHeader_List ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-#floatingHeader_List li {
+.floatingHeader_List li {
     /*this float left has to remain,
     otherwise the list is not horizontal*/
     float: left;
-    padding-right: 0.4em;
-    padding-left: 0.4em;
+    padding-right: 0.4vmax;
+    padding-left: 0.4vmax;
 }
 
-#floatingHeader_List li a {
+.floatingHeader_List li a {
     display: block;
     color: white;
 }
 
-#floatingHeader_List li a:hover {
+.floatingHeader_List li a:hover {
     background-color: #AA2323;
 }
 
@@ -61,14 +61,14 @@
     background-color: #AA2323;
 }
 
-#floatingHeader_List li a:link {
+.floatingHeader_List li a:link {
     text-decoration: none;
     font-weight: bold;
     color: white;
 }
 
 /* Applies to visited links */
-#floatingHeader_List li a:visited {
+.floatingHeader_List li a:visited {
     text-decoration: none;
     font-weight: bold;
     color: white;
