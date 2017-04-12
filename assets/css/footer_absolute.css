@@ -4,26 +4,59 @@
     bottom: 0;
     left: 0;
     background-color: #000000;
-    font-size: 1.2em;
 
-    height: 8em;
+    font-size: 2.5vh;
+
+    height: 14vh;
     width: 100%;
     float: left;
+}
+
+.footer p {
+    color: white;
+    margin: 0;
 }
 
 .footer_wrap {
     width: 70%;
     height: auto;
     margin: auto;
-    padding-top: 0.3em;
 }
 
-.footer p {
-    color: white;
+.footer_logo_wrap {
+    max-height: 13vh;
+
+    margin-top: 0.5vh;
+    margin-bottom: 0.5vh;
+    margin-left: 0;
+    margin-right: 5vw;
+    float: left;
 }
 
 .footer_logo {
-    height: 4em;
-    margin: 0 auto;
-    padding: 5px;
+    height: 8.5vh;
+    margin: 0;
+}
+
+.footer-media-logos-wrap {
+    max-height: 12vh;
+
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 0;
+    margin-right: 0.75vh;
+    float: none;
+    display: flex;
+
+}
+
+.footer-media-logo {
+    height: 50px;
+    width: 50px;
+    margin: 0;
+    float: none;
+}
+
+.bottom_margin {
+    margin-bottom: 0.3vh;
 }
