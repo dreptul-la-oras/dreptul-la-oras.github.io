@@ -10,8 +10,7 @@ html {
     font-family: "Times New Roman", Times, serif;
     font-size: 18px;
 
-    padding: 20px;
-    padding-top: 5em; /*same as header height*/
+    padding-top: 4.1vmax; /*same as header height*/
     padding-bottom: 9em; /*same as header height*/
 }
 

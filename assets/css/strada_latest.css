@@ -1,15 +1,16 @@
-.latestStrada {
+.latest-strada {
+    border-top: 1px solid #ccc;
 }
 
-.latestStrada img {
+.latest-strada img {
     width: 100%;
 }
 
-.latestStrada p {
+.latest-strada p {
     font-size: 3vmax
 }
 
-.latestStrada a {
+.latest-strada a {
     border-bottom: 1px solid #ccc;
     padding-bottom: 7px;
     margin-bottom: 5px;

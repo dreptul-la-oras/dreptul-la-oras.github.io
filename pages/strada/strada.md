@@ -15,7 +15,7 @@ css:
   - /assets/css/strada_title.css
 ---
 
-<div id="stradaLogoContainer">
+<div class="strada-title-wrap">
     <img src="{{ site.url }}{{ site.path_img }}/strada/strada_title.png">
     <p>Strada este o revistă realizată cu scopul de a aduce la cunoștiință cetățenilor multitudinile de problem ce se regăsesc în viața de zi cu zi.</p>
 </div>
