@@ -9,7 +9,7 @@ html {
         margin: auto;
 
         padding-top: 8.2vmax; /*same as header height*/
-        padding-bottom: 9em; /*same as header height*/
+        padding-bottom: 8vmax; /*same as header height*/
     }
 }
 
@@ -19,7 +19,7 @@ html {
         margin: auto;
 
         padding-top: 4.1vmax; /*same as header height*/
-        padding-bottom: 9em; /*same as header height*/
+        padding-bottom: 8vmax; /*same as header height*/
     }
 }
 

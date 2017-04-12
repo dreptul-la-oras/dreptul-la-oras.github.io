@@ -3,7 +3,6 @@
     right: 0;
     top: 0;
     border-bottom: 1px solid #ccc;
-    border-top: 1px solid #ccc;
 }
 
 .strada-title-wrap p {
@@ -12,14 +11,13 @@
 
 .strada-title-wrap img {
     width: 35vw;
+    margin-top: 0;
 }
 
 .issue {
     margin-top: 1vh;
-    padding-top: 1vh;
 
-    margin-bottom: 0.5vh;
-    padding-bottom: 3vh;
+    margin-bottom: 1vh;
     border-bottom: 1px solid #ccc;
 }
 
@@ -29,5 +27,9 @@
 
 .issue img {
     width: 55vw;
+}
+
+.no-top-margin {
+    margin-top: 0;
 }
 

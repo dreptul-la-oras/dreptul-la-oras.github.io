@@ -1,5 +1,4 @@
 .latest-strada {
-    border-top: 1px solid #ccc;
 }
 
 .latest-strada img {
@@ -7,11 +6,11 @@
 }
 
 .latest-strada p {
-    font-size: 3vmax
+    font-size: 3vmax;
+    margin-top: 0;
+    margin-bottom: 1vh;
 }
 
 .latest-strada a {
     border-bottom: 1px solid #ccc;
-    padding-bottom: 7px;
-    margin-bottom: 5px;
 }
