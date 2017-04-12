@@ -2,8 +2,8 @@
 @media screen and (max-width: 400px) {
     .essay-wrapper {
         min-width: 200px;
-        margin-top: 7vh;
-        margin-bottom: 7vh;
+        margin-top: 2vh;
+        margin-bottom: 18vh;
     }
 
     .essay-columns {
@@ -21,8 +21,8 @@
 @media screen and (min-width: 400px) {
     .essay-wrapper {
         min-width: 400px;
-        margin-top: 7vh;
-        margin-bottom: 7vh;
+        margin-top: 2vh;
+        margin-bottom: 10vh;
     }
 
     .essay-columns {
