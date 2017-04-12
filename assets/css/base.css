@@ -8,7 +8,7 @@ html {
         width: 90%;
         margin: auto;
 
-        padding-top: 4.1vmax; /*same as header height*/
+        padding-top: 8.2vmax; /*same as header height*/
         padding-bottom: 9em; /*same as header height*/
     }
 }
@@ -18,7 +18,7 @@ html {
         width: 70%;
         margin: auto;
 
-        padding-top: 8.2vmax; /*same as header height*/
+        padding-top: 4.1vmax; /*same as header height*/
         padding-bottom: 9em; /*same as header height*/
     }
 }
