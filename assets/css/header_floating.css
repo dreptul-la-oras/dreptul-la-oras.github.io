@@ -44,12 +44,12 @@
     /*this float left has to remain,
     otherwise the list is not horizontal*/
     float: left;
+    padding-right: 0.4em;
+    padding-left: 0.4em;
 }
 
 #floatingHeader_List li a {
     display: block;
-    padding-right: 0.4em;
-    padding-left: 0.4em;
     color: white;
 }
 
@@ -57,15 +57,19 @@
     background-color: #AA2323;
 }
 
+.redBackground {
+    background-color: #AA2323;
+}
+
 #floatingHeader_List li a:link {
-    text-decoration:  none;
-    font-weight:      bold;
-    color:            white;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
 }
 
 /* Applies to visited links */
 #floatingHeader_List li a:visited {
-    text-decoration:  none;
-    font-weight:      bold;
-    color:            white;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
 }

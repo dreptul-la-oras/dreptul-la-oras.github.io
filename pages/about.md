@@ -1,4 +1,5 @@
 ---
+id: about
 layout: main
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tempor diam, vel accumsan orci. Donec vitae finibus massa. Pellentesque."
 keywords: "Lorem ipsum dolor sit amet."

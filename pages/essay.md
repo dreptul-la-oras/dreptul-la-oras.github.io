@@ -1,4 +1,5 @@
 ---
+id: essay
 layout: main
 description: Esee scrise și redactate de Dreptul la Oraș
 keywords: "essay,esee"
@@ -8,8 +9,6 @@ css:
   - /assets/css/essay_tiles.css
 ---
 {% include latest.html %}
-
-<h2>Esee</h2>
 
 <div id="wrapper">
     <div id="columns">

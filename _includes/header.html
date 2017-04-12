@@ -5,11 +5,25 @@
         </a>
     </div>
 
-    <div id ="floatingHeader_List">
+    <div id="floatingHeader_List">
         <ul>
+            {% if page.id == "essay" %}
+            <li class="redBackground"><a href="{{ site.url }}/essay.html">esee</a></li>
+            {% else %}
             <li><a href="{{ site.url }}/essay.html">esee</a></li>
+            {% endif %}
+
+            {% if page.id == "strada" %}
+            <li class="redBackground"><a href="{{ site.url }}/strada.html">revista strada</a></li>
+            {% else %}
             <li><a href="{{ site.url }}/strada.html">revista strada</a></li>
+            {% endif %}
+
+            {% if page.id == "about" %}
+            <li class="redBackground"><a href="{{ site.url }}/about.html">despre noi</a></li>
+            {% else %}
             <li><a href="{{ site.url }}/about.html">despre noi</a></li>
+            {% endif %}
         </ul>
     </div>
 </div>

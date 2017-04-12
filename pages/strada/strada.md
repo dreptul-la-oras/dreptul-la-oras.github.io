@@ -1,4 +1,5 @@
 ---
+id: strada
 layout: main
 description: În Timișoara trăiesc oameni fără adăpost, abandonați de familie, prieteni și societate. Credem că este important să aducem această realitate la vedere, deoarece prin conștientizare, expunere și informare putem construi împreună o societate mai echitabilă.
 keywords: "revista strada,strada,revista,magazine,primul numar,first issue,homelessness,poverty,saracia"
