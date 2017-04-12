@@ -3,15 +3,20 @@ html {
     min-height: 100%;
 }
 
-.pageCommons {
-    margin: 0 auto;
-    bottom: 5px;
+/*
+ * This basically sets the constraints for the content
+ */
+.content-box {
     width: 70%;
-    font-family: "Times New Roman", Times, serif;
-    font-size: 18px;
+    margin: auto;
 
     padding-top: 4.1vmax; /*same as header height*/
     padding-bottom: 9em; /*same as header height*/
+}
+
+.content-commons {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.6vmax;
 }
 
 .content {

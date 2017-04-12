@@ -1,41 +1,75 @@
 /* Contains all the styling for the floating header */
-.floating-header {
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
-    background-color: #000000;
-    height: 4vmax;
-    width: 100%;
-    float: left;
+@media screen and (min-width: 480px) {
+    .floating-header {
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-color: #000000;
+        height: 4.2vmax;
+        width: 100%;
+        float: left;
 
-    font-size: 1.8vmax;
-    font-weight: bold;
+        font-size: 2.2vmax;
+        font-weight: bold;
+    }
+
+    .floating-header-wrap {
+        width: 70%;
+        margin: auto;
+    }
+
+    .floating-header-wrap div {
+        float: left;
+    }
+
+    .floating-header-logo {
+        max-height: 3.6vmax;
+        margin: 0 auto;
+        padding-top: 0.2vmax;
+        padding-bottom: 0.2vmax;
+    }
 }
 
-.floating-header-wrap {
-    width: 70%;
-    margin: auto;
-}
+@media screen and (max-width: 480px) {
+    .floating-header {
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-color: #000000;
+        height: 8.4vmax;
+        width: 100%;
+        float: left;
 
-.floating-header-wrap div {
-    float: left;
-}
+        font-size: 2.2vmax;
+        font-weight: bold;
+    }
 
-.floating-header-logo {
-    max-height: 3.6vmax;
-    margin: 0 auto;
-    padding: 0.2vmax;
+    .floating-header-wrap {
+        width: 70%;
+        margin: auto;
+    }
+
+    .floating-header-wrap div {
+        float: left;
+    }
+
+    .floating-header-logo {
+        max-height: 3.6vmax;
+        margin: 0 auto;
+        padding-top: 0.2vmax;
+        padding-bottom: 0.2vmax;
+    }
 }
 
 .floating-header-list {
     width: auto;
     height: auto;
     margin: 0 auto;
-    padding-left: 1vmax;
+    padding-left: 3vw;
     padding-top: 0.8vmax;
-    padding-bottom: 0.4vmax;
-
+    padding-bottom: 0.8vmax;
 }
 
 .floating-header-list ul {
@@ -46,14 +80,19 @@
 }
 
 .floating-header-list li {
-    /*this float left has to remain,
-    otherwise the list is not horizontal*/
+    /*
+     * this float left has to remain,
+     * otherwise the list is not horizontal
+     */
     float: left;
+    padding-top: 0;
+    padding-bottom: 0;
     padding-right: 0.4vmax;
     padding-left: 0.4vmax;
 }
 
 .floating-header-list li a {
+    padding: 0;
     display: block;
     color: white;
 }
