@@ -21,6 +21,6 @@ css:
 </div>
 
 <div class="issue">
-    <p class="no-top-margin">Primul număr, <strong><em>"Oamenii străzii: condiții și dificultăți"</em></strong> <a href="{{ site.url }}/assets/pdf/strada/issue_01/dreptul_la_oras_strada_issue_01.pdf">(download .pdf)</a> încearcă să aducă la lumină o problemă de mult ignorată.</p>
+    <p class="no-top-margin">Primul număr, <strong><em>"Oamenii străzii: condiții și dificultăți"</em></strong> <a href="{{ site.url }}/assets/files/strada/issue_01/dreptul_la_oras_strada_issue_01.pdf">(download .pdf)</a> încearcă să aducă la lumină o problemă de mult ignorată.</p>
     <img src="{{ site.url }}{{ site.path_img }}/strada/issue_01/strada_01_title.png">
 </div>
