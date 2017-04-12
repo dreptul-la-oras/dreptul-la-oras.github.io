@@ -3,20 +3,7 @@ html {
     min-height: 100%;
 }
 
-/*
- * This basically sets the constraints for the content
- */
 @media (max-width: 400px) {
-    .content-box {
-        width: 70%;
-        margin: auto;
-
-        padding-top: 8.2vmax; /*same as header height*/
-        padding-bottom: 9em; /*same as header height*/
-    }
-}
-
-@media (min-width: 400px) {
     .content-box {
         width: 90%;
         margin: auto;
@@ -26,6 +13,15 @@ html {
     }
 }
 
+@media (min-width: 400px) {
+    .content-box {
+        width: 70%;
+        margin: auto;
+
+        padding-top: 8.2vmax; /*same as header height*/
+        padding-bottom: 9em; /*same as header height*/
+    }
+}
 
 .content-commons {
     font-family: "Times New Roman", Times, serif;
