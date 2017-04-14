@@ -4,7 +4,7 @@ layout: main
 description: Esee scrise și redactate de Dreptul la Oraș
 keywords: "essay,esee"
 title: Esee
-permalink: /essay
+permalink: /writings.html
 css:
   - /assets/css/writings_tiles.css
 ---
