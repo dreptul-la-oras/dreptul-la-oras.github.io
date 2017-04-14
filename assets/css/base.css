@@ -16,7 +16,8 @@ html {
 
 @media (min-width: 400px) {
     .content-box {
-        width: 70%;
+        min-width: 500px;
+        max-width: 800px;
         margin-left: auto;
         margin-right: auto;
 
@@ -27,7 +28,7 @@ html {
 
 .content-commons {
     font-family: "Times New Roman", Times, serif;
-    font-size: 4vmax;
+    font-size: 22pt;
 }
 
 .content {
