@@ -5,7 +5,7 @@ keywords: "urb-inclusion,urb-act,european cities,barcelona,urban development, ur
 description: >
   Timișoara participă la un proiect pan-European de îmbunătățire a orașului, și acest lucru ne dă  nouă cetățenilor o cale de implicare civică 
 date:   2017-01-31 12:14:33
-categories: essay
+categories: article
 image:
   url: /assets/img/essay/2017-01-31-cu-ochii-pe-urb-inclusion.jpg
   width: 255

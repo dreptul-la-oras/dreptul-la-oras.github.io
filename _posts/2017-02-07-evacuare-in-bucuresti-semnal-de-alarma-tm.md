@@ -5,7 +5,7 @@ keywords: "evacuari fortate,gentrificare,rasism,rom,romi"
 description: >
   A fi activi local nu exclude solidaritate față de locuitori din alte orașe, mai mult, este intolerabil că astfel de lucruri se pot întâmpla oriunde în lume, și este datoria noastră să ne împotrivim.  
 date:   2017-02-07 11:14:33
-categories: essay
+categories: article
 image:
   url: /assets/img/essay/2017-02-07-evacuare-in-bucuresti-semnal-de-alarma-tm.png
   width: 600
@@ -31,5 +31,5 @@ Avem nevoie urgentă de mai multe locuințe sociale! În București, în Timisoa
 
 Al tău, Dreptul la Oraș!  
 
-[1] Documentarea video a evacuării: https://www.facebook.com/madalina.rosca.96/posts/10154918137453608  
-[2] Legea 202 din 2010, Art. 578.1 http://www.dreptonline.ro/legislatie/legea_202_2010_masuri_pentru_accelerarea_solutionarii_proceselor_mica_reforma_a_justitiei.php  
+[1] [Documentarea video a evacuării](https://www.facebook.com/madalina.rosca.96/posts/10154918137453608)  
+[2] [Legea 202 din 2010, Art. 578.1](http://www.dreptonline.ro/legislatie/legea_202_2010_masuri_pentru_accelerarea_solutionarii_proceselor_mica_reforma_a_justitiei.php)  
