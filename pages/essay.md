@@ -8,8 +8,6 @@ permalink: /essay
 css:
   - /assets/css/essay_tiles.css
 ---
-{% include latest_strada.html %}
-
 <div class="essay-wrapper">
     <div class="essay-columns">
         {% for post in site.posts %}
