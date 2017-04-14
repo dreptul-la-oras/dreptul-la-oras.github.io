@@ -89,12 +89,12 @@
     padding-bottom: 0;
     padding-right: 0.4vmax;
     padding-left: 0.4vmax;
+    color: white;
 }
 
 .floating-header-list li a {
     padding: 0;
     display: block;
-    color: white;
 }
 
 .floating-header-list li a:hover {
