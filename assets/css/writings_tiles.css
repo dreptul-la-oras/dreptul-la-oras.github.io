@@ -1,12 +1,12 @@
 /*for small screens we use only one single column*/
 @media screen and (max-width: 400px) {
-    .essay-wrapper {
+    .writings-wrapper {
         min-width: 200px;
         margin-top: 2vh;
         margin-bottom: 15vh;
     }
 
-    .essay-columns {
+    .writings-columns {
         -webkit-column-count: 1;
         -webkit-column-gap: 10px;
         -moz-column-count: 1;
@@ -19,13 +19,13 @@
 }
 
 @media screen and (min-width: 400px) {
-    .essay-wrapper {
+    .writings-wrapper {
         min-width: 400px;
         margin-top: 2vh;
         margin-bottom: 15vh;
     }
 
-    .essay-columns {
+    .writings-columns {
         -webkit-column-count: 2;
         -webkit-column-gap: 10px;
         -moz-column-count: 2;
@@ -39,7 +39,7 @@
 
 
 
-.essay-tile {
+.writings-tile {
     display: inline-block;
     background: #FEFEFE;
     border: 2px solid #FAFAFA;
@@ -59,19 +59,19 @@
     transition: all .2s ease;
 }
 
-.essay-tile img {
+.writings-tile img {
     width: 100%;
     padding-bottom: 15px;
 }
 
-.essay-tile p {
+.writings-tile p {
     color: #333;
     margin-bottom: 5px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 15px;
 }
 
-.essay-title {
+.writings-title {
     width: 100%;
     padding-bottom: 7px;
     margin-bottom: 5px;
@@ -79,23 +79,23 @@
     font-weight: bold;
 }
 
-.essay-title a:hover {
+.writings-title a:hover {
     background-color: #A9A9A9;
 }
 
-.essay-title a:link {
+.writings-title a:link {
     text-decoration: none;
     font-weight: bold;
     color: inherit;
 }
 
-.essay-title a:visited {
+.writings-title a:visited {
     text-decoration: none;
     font-weight: bold;
     color: inherit;
 }
 
-.essay-date {
+.writings-date {
     width: 100%;
     border-bottom: 1px solid #ccc;
     padding-bottom: 7px;
