@@ -1,4 +1,4 @@
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     .floating-header {
         position: fixed;
         left: 0;
@@ -12,7 +12,7 @@
     }
 }
 
-@media (min-width: 450px) {
+@media (min-width: 500px) {
     .floating-header {
         position: fixed;
         left: 0;
@@ -27,7 +27,7 @@
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     .floating-header-wrap {
         display: flex;
         float: right;
@@ -35,7 +35,7 @@
     }
 }
 
-@media (min-width: 450px) {
+@media (min-width: 500px) {
     .floating-header-wrap {
         display: flex;
         min-width: 400px;

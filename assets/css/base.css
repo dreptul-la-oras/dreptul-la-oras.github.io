@@ -19,6 +19,13 @@
 
     --footer-height: 40px;
     --footer-height-double: 80px;
+
+    /*
+        this is the width when the footer, and header have to be doubled
+        unfortunately it cannot be used in media queries, but I put it here
+        to be quite obvious
+    */
+    --footer-header-doubling-size: 500px;
 }
 
 html {
@@ -30,7 +37,7 @@ body {
     margin: 0 0 0 0;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     .content-box {
         width: 90%;
         margin-left: auto;
@@ -41,9 +48,9 @@ body {
     }
 }
 
-@media (min-width: 450px) {
+@media (min-width: 500px) {
     .content-box {
-        min-width: 400px;
+        min-width: 500px;
         max-width: 600px;
         margin-left: auto;
         margin-right: auto;
