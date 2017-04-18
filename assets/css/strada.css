@@ -10,7 +10,7 @@
 }
 
 .strada-title-wrap h2 {
-    color: grey;
+    color: var(--gray-6);
     text-align: center;
     font-size: var(--font-subtitle-standalone);
 }
