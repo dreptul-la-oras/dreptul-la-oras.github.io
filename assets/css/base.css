@@ -71,6 +71,29 @@ body {
     }
 }
 
+@media (max-width: 500px) {
+    .wider-content-box {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+
+        padding-top: var(--header-height-double); /*same as header height*/
+        padding-bottom: var(--footer-height); /*same as header height*/
+    }
+}
+
+@media (min-width: 500px) {
+    .wider-content-box {
+        min-width: 500px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+
+        padding-top: var(--header-height); /*same as header height*/
+        padding-bottom: var(--footer-height); /*same as header height*/
+    }
+}
+
 .content-commons {
     font-family: "Antwerp", 'Times New Roman', Times, serif;
     font-size: var(--font_normal);

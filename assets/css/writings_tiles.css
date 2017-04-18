@@ -14,7 +14,8 @@
 
 .writings-tile-form {
     display: inline-block;
-    width: 250px;
+    min-width: 190px;
+    max-width: 250px;
     max-height: 800px;
     margin-bottom: 1vh;
     margin-left: 5px;

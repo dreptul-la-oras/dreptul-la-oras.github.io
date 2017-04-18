@@ -1,7 +1,7 @@
 ---
 id: writings
-layout: main
-description: Esee scrise și redactate de Dreptul la Oraș
+layout: main_wide
+description: Texte scrise și redactate de Dreptul la Oraș
 keywords: "essay,esee,writings,texte"
 title: Texte
 permalink: /writings.html
