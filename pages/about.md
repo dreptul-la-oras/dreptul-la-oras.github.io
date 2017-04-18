@@ -3,7 +3,7 @@ id: about
 layout: main
 description: "Despre Dreptul la Oraș Timișoara"
 keywords: "about,despre"
-title: About
+title: Despre Noi
 permalink: /about.html
 
 css:

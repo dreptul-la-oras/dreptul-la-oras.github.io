@@ -3,7 +3,7 @@ id: essay
 layout: main
 description: Esee scrise și redactate de Dreptul la Oraș
 keywords: "essay,esee"
-title: Esee
+title: Texte
 permalink: /writings.html
 css:
   - /assets/css/writings_tiles.css
