@@ -12,15 +12,20 @@ image:
   type: image/jpeg
   
 css:
-  - /assets/css/strada_title.css
+  - /assets/css/strada.css
 ---
 
 <div class="strada-title-wrap">
-    <img src="{{ site.url }}{{ site.path_img }}/strada/strada_title.png">
-    <p>Strada este o revistă realizată cu scopul de a aduce la cunoștiință cetățenilor multitudinile de problem ce se regăsesc în viața de zi cu zi.</p>
+    <h1> Strada </h1>
+    <h2>
+       Strada este o revistă realizată cu scopul de a aduce la cunoștiință cetățenilor multitudinile de probleme întâmpinate în fiecare zi.
+    </h2>
+    <div>
+      Revista se distribuie gratuit, și puteți găsi copii fizice în următoarele locații din Timișoara:
+      <ul>
+        <li>TBA</li>
+      </ul>
+    </div>
 </div>
 
-<div class="issue">
-    <p class="no-top-margin">Primul număr, <strong><em>"Oamenii străzii: condiții și dificultăți"</em></strong> <a href="{{ site.url }}/assets/files/strada/issue_01/dreptul_la_oras_strada_issue_01.pdf">(download .pdf)</a> încearcă să aducă la lumină o problemă de mult ignorată.</p>
-    <img src="{{ site.url }}{{ site.path_img }}/strada/issue_01/strada_01_title.png">
-</div>
+{% include strada/strada_issue_01.html %}

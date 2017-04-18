@@ -5,13 +5,15 @@
     border-bottom: 1px solid #ccc;
 }
 
-.strada-title-wrap p {
-    font-size: 2.25vh;
+.strada-title-wrap h1 {
+    font-size: var(--font-title-standalone);
+    text-align: center;
 }
 
-.strada-title-wrap img {
-    width: 35vw;
-    margin-top: 0;
+.strada-title-wrap h2 {
+    color: grey;
+    text-align: center;
+    font-size: var(--font-subtitle-standalone);
 }
 
 .issue {
@@ -22,11 +24,11 @@
 }
 
 .issue p {
-    font-size: 2.25vh;
+    font-size: var(--font_normal);
 }
 
 .issue img {
-    width: 55vw;
+    max-width: 100%;
 }
 
 .no-top-margin {
