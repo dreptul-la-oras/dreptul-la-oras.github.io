@@ -2,7 +2,7 @@
 id: writings
 layout: main
 description: Esee scrise și redactate de Dreptul la Oraș
-keywords: "essay,esee"
+keywords: "essay,esee,writings,texte"
 title: Texte
 permalink: /writings.html
 css:
