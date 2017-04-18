@@ -31,6 +31,7 @@
     .floating-header-wrap {
         display: flex;
         float: right;
+        margin: auto;
     }
 }
 
@@ -49,8 +50,8 @@
 }
 
 .floating-header-sep {
-    padding-right: 7px;
     padding-left: 7px;
+    padding-right: 7px;
     font-weight: bold;
 }
 
@@ -61,12 +62,17 @@
 .floating-header-menu-item {
     color: white;
     font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
 
 }
 
 .floating-header-menu-item p {
     padding-right: 4px;
     padding-left: 4px;
+    margin: 0;
 }
 
 .floating-header-menu-item a {

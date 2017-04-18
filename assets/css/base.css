@@ -30,7 +30,7 @@ body {
     margin: 0 0 0 0;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 450px) {
     .content-box {
         width: 90%;
         margin-left: auto;
@@ -41,7 +41,7 @@ body {
     }
 }
 
-@media (min-width: 420px) {
+@media (min-width: 450px) {
     .content-box {
         min-width: 400px;
         max-width: 600px;
