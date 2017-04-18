@@ -6,7 +6,7 @@
     --font_normal: 18px;
 
     --font-title-standalone: 40px;
-    --font-subtitle-standalone: 32px;
+    --font-subtitle-standalone: 28px;
 
     /*in case you have floating elements on the page, and you need this distinction*/
     --font-title-embedded: 26px;
