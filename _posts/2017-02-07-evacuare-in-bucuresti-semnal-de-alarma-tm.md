@@ -7,7 +7,7 @@ description: >
 date:   2017-02-07 11:14:33
 categories: article
 image:
-  url: /assets/img/essay/2017-02-07-evacuare-in-bucuresti-semnal-de-alarma-tm.png
+  url: /assets/img/writings/2017-02-07-evacuare-in-bucuresti-semnal-de-alarma-tm.png
   width: 300
   height: 208
   type: image/png

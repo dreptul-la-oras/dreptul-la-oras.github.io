@@ -7,7 +7,7 @@ description: >
 date:   2017-01-31 12:14:33
 categories: article
 image:
-  url: /assets/img/essay/2017-01-31-cu-ochii-pe-urb-inclusion.jpg
+  url: /assets/img/writings/2017-01-31-cu-ochii-pe-urb-inclusion.jpg
   width: 255
   height: 89
   type: image/jpeg
