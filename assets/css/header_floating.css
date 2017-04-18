@@ -63,12 +63,14 @@
     padding-right: 4px;
     padding-left: 4px;
     color: white;
-    background-color: #000000;
 }
 
 .floating-header-list li a {
     padding: 0;
     display: block;
+    /*this is a cheap hack to prevent menu from not being visible on small devices*/
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+
 }
 
 .floating-header-list li a:link {
