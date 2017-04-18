@@ -9,7 +9,7 @@
         width: 100%;
         float: left;
 
-        font-size: 16px;
+        font-size: var(--font-sticky);
     }
 }
 
@@ -24,7 +24,7 @@
         width: 100%;
         float: left;
 
-        font-size: 16px;
+        font-size: var(--font-sticky);
     }
 }
 
@@ -56,7 +56,7 @@
 .floating-header-list {
     width: auto;
     height: auto;
-    margin:auto;
+    margin: auto;
     padding-left: 4px;
     padding-top: 12px;
     padding-bottom: 4px;
@@ -101,9 +101,9 @@
 }
 
 .red-background {
-    background-color: #AA2323;
+    background-color: var(--red);
 }
 
 .highlightable:hover {
-    background-color: #AA2323;
+    background-color: var(--red);
 }

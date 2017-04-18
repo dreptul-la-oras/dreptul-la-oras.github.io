@@ -1,3 +1,20 @@
+:root {
+    /*should be used in any sticky elements like headers, and footers, floating margins, etc*/
+    --font-sticky: 16px;
+
+    /*the vast majority of content uses this font*/
+    --font_normal: 18px;
+
+    --font-title-standalone: 40px;
+    --font-subtitle-standalone: 32px;
+
+    /*in case you have floating elements on the page, and you need this distinction*/
+    --font-title-embedded: 26px;
+    --font-subtitle-embedded: 20px;
+
+    --red: #AA2323;
+}
+
 html {
     position: relative;
     min-height: 100%;
@@ -28,10 +45,9 @@ html {
 
 .content-commons {
     font-family: "Times New Roman", Times, serif;
-    font-size: 16pt;
+    font-size: var(--font_normal);
 }
 
 .content {
 
 }
-

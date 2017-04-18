@@ -2,6 +2,12 @@
 layout: main
 ---
 
-<h1>{{ page.date | date: "%d %B %Y" }} - {{ page.title }}</h1>
+<div class="post-header">
+    <div class="post-header-box">
+        <h1 class="title">{{ page.date | date: "%d %B %Y" }} - {{ page.title }}</h1>
+        <p class="description">{{page.description}}</p>
+    </div>
+</div>
+
 
 {{ content }}

@@ -1,0 +1,18 @@
+.post-header {
+    border-bottom: 1px solid #ccc;
+}
+
+.post-header-box {
+
+}
+
+.title {
+    font-size: var(--font-title-standalone);
+    text-align: center;
+}
+
+.description {
+    color: grey;
+    text-align: center;
+    font-size: var(--font-subtitle-standalone);
+}

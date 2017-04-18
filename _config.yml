@@ -27,6 +27,7 @@ css:
   - /assets/css/header_floating.css
   - /assets/css/footer_absolute.css
   - /assets/css/strada_latest.css
+  - /assets/css/post.css
 
 # Build settings
 markdown: kramdown

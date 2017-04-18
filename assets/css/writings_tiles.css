@@ -75,7 +75,7 @@
     width: 100%;
     padding-bottom: 7px;
     margin-bottom: 5px;
-    font-size: 1.6em;
+    font-size: var(--font-title-embedded);
     font-weight: bold;
 }
 
@@ -100,5 +100,5 @@
     border-bottom: 1px solid #ccc;
     padding-bottom: 7px;
     margin-bottom: 5px;
-    font-size: 1em;
+    font-size: var(--font-subtitle-embedded);
 }
