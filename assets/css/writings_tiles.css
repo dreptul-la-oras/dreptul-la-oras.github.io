@@ -10,6 +10,7 @@
     vertical-align: top;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .writings-tile-form {
