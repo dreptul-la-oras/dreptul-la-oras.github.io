@@ -107,7 +107,12 @@
     /*intent is to override the margin from footer-item*/
     margin-top: 6px;
     margin-bottom: 6px;
+}
 
+.footer-social-media a {
+    /*same as footer-social-media-logo*/
+    max-height: calc(var(--header-height) - 12px);
+    max-width: calc(var(--header-height) - 12px);
 }
 
 .footer-social-media-logo {
