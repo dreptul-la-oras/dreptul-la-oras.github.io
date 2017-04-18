@@ -17,10 +17,10 @@ css:
 
 <div class="strada-title-wrap">
     <h2>
-       Strada este o revistă realizată cu scopul de a aduce la cunoștiință cetățenilor multitudinile de probleme întâmpinate în fiecare zi.
+       Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor fără adăpost.
     </h2>
     <div>
-      Revista se distribuie gratuit, și puteți găsi copii fizice în următoarele locații din Timișoara:
+      Revista se distribuie gratuit și poate fi găsită în următoarele locații din Timișoara:
       <ul>
         <li><a href="https://www.facebook.com/lareciproc.ro/">Reciproc</a></li>
       </ul>
