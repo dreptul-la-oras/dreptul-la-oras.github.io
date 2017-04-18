@@ -5,7 +5,7 @@
         right: 0;
         top: 0;
         background-color: #000000;
-        height: var(--floating-size-double);
+        height: var(--header-height-double);
         width: 100%;
         float: left;
 
@@ -20,7 +20,7 @@
         right: 0;
         top: 0;
         background-color: #000000;
-        height: var(--floating-size);
+        height: var(--header-height);
         width: 100%;
         float: left;
 
@@ -47,7 +47,7 @@
 }
 
 .floating-header-logo {
-    max-height: calc(var(--floating-size) - 4px);
+    max-height: calc(var(--header-height) - 4px);
     margin: 0 auto;
     padding-top: 2px;
     padding-bottom: 2px;

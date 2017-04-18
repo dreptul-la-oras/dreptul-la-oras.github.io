@@ -14,8 +14,11 @@
 
     --red: #AA2323;
 
-    --floating-size: 40px;
-    --floating-size-double: 80px;
+    --header-height: 40px;
+    --header-height-double: 80px;
+
+    --footer-height: 40px;
+    --footer-height-double: 80px;
 }
 
 html {
@@ -33,8 +36,8 @@ body {
         margin-left: auto;
         margin-right: auto;
 
-        padding-top: var(--floating-size-double); /*same as header height*/
-        padding-bottom: var(--floating-size); /*same as header height*/
+        padding-top: var(--header-height-double); /*same as header height*/
+        padding-bottom: var(--footer-height); /*same as header height*/
     }
 }
 
@@ -45,8 +48,8 @@ body {
         margin-left: auto;
         margin-right: auto;
 
-        padding-top: var(--floating-size); /*same as header height*/
-        padding-bottom: var(--floating-size); /*same as header height*/
+        padding-top: var(--header-height); /*same as header height*/
+        padding-bottom: var(--footer-height); /*same as header height*/
     }
 }
 
