@@ -1,4 +1,4 @@
-@media (max-width: 450px) {
+@media (max-width: 490px) {
     .footer {
         position: absolute;
         right: 0;
@@ -15,7 +15,7 @@
     }
 }
 
-@media (min-width: 450px) {
+@media (min-width: 490px) {
     .footer {
         position: absolute;
         right: 0;
@@ -32,7 +32,7 @@
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 490px) {
     .footer-wrap {
         display: flex;
         height: var(--footer-height-double);
@@ -41,7 +41,7 @@
     }
 }
 
-@media (min-width: 450px) {
+@media (min-width: 490px) {
     .footer-wrap {
         display: flex;
         min-width: 400px;
