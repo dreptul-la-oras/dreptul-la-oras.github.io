@@ -49,10 +49,20 @@
     margin-right: auto;
 }
 
-.floating-header-sep {
-    padding-left: 7px;
-    padding-right: 7px;
-    font-weight: bold;
+@media (max-width: 460px) {
+    .floating-header-sep {
+        padding-left: 2px;
+        padding-right: 2px;
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 460px) {
+    .floating-header-sep {
+        padding-left: 7px;
+        padding-right: 7px;
+        font-weight: bold;
+    }
 }
 
 .floating-header-logo {
