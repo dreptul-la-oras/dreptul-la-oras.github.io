@@ -1,5 +1,5 @@
 .post-header {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--gray-light-1);
 }
 
 .post-header-box {

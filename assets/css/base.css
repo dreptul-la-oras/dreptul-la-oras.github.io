@@ -9,17 +9,21 @@
     --font-subtitle-standalone: 28px;
 
     /*in case you have floating elements on the page, and you need this distinction*/
-    --font-title-embedded: 24px;
-    --font-subtitle-embedded: 20px;
+    --font-title-embedded: 22px;
+    --font-subtitle-embedded: 18px;
 
     --red: #AA2323;
     --black: #000000;
-    --gray-light-10: #F0F0F0;
+    --gray-light-10: #FAFAFA;
     --gray-light-9: #F5F5F5;
-    --gray-light-4: #D2D2D2;
-    --gray-light-3: #CDCDCD;
-    --gray-light-2: #C8C8C8;
-    --gray-light-1: #C3C3C3;
+    --gray-light-8: #EBEBEB;
+    --gray-light-7: #E6E6E6;
+    --gray-light-6: #E1E1E1;
+    --gray-light-5: #DCDCDC;
+    --gray-light-4: #D7D7D7;
+    --gray-light-3: #D2D2D2;
+    --gray-light-2: #CDCDCD;
+    --gray-light-1: #C8C8C8;
 
     --header-height: 40px;
     --header-height-double: 80px;

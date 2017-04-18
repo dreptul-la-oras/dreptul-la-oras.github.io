@@ -2,7 +2,7 @@
     left: 0;
     right: 0;
     top: 0;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--gray-light-1);
 }
 
 .strada-title-wrap h1 {
@@ -20,7 +20,7 @@
     margin-top: 1vh;
 
     margin-bottom: 1vh;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--gray-light-1);
 }
 
 .issue p {

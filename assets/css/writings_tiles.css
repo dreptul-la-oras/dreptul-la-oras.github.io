@@ -24,7 +24,7 @@
 
 .writings-tile-wrap {
     padding: 8px;
-    background: var(--gray-light-10);
+    background: var(--gray-light-7);
 }
 
 .writings-tile-wrap img {
@@ -35,7 +35,7 @@
 .writings-tile-wrap p {
     color: var(--black);
     margin-bottom: 5px;
-    border-bottom: 1px solid darkgray;
+    border-bottom: 1px solid var(--gray-light-1);
     padding-bottom: 15px;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .writings-title a:hover {
-    background-color: var(--gray-light-4);
+    background-color: var(--gray-light-1);
 }
 
 .writings-title a:link {
@@ -65,7 +65,7 @@
 
 .writings-date {
     width: 100%;
-    border-bottom: 1px solid darkgray;
+    border-bottom: 1px solid var(--gray-light-1);
     padding-bottom: 7px;
     margin-bottom: 5px;
     font-size: var(--font-subtitle-embedded);

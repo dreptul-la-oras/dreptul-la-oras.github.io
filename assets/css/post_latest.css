@@ -4,7 +4,7 @@
 
 .latest-post-wrap {
     display: flex;
-    background-color: #EEE;
+    background-color: var(--gray-light-4);
     text-align: center;
 }
 
@@ -51,7 +51,7 @@
 
 .latest-post-element-right-date {
     width: 100%;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--gray-light-1);
     padding-bottom: 7px;
     margin-bottom: 5px;
     font-size: var(--font-subtitle-embedded);
