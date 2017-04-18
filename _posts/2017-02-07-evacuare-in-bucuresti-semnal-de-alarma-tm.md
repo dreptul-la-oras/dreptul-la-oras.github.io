@@ -8,8 +8,8 @@ date:   2017-02-07 11:14:33
 categories: article
 image:
   url: /assets/img/essay/2017-02-07-evacuare-in-bucuresti-semnal-de-alarma-tm.png
-  width: 600
-  height: 416
+  width: 300
+  height: 208
   type: image/png
 ---
 
