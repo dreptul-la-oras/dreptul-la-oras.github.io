@@ -1,73 +1,42 @@
-/*for small screens we use only one single column*/
-@media screen and (max-width: 420px) {
-    .writings-wrapper {
-        min-width: 200px;
-        margin-top: 2vh;
-        margin-bottom: 15vh;
-    }
+.writings {
+    margin-top: 5vh;
 
-    .writings-columns {
-        -webkit-column-count: 1;
-        -webkit-column-gap: 10px;
-        -moz-column-count: 1;
-        -moz-column-gap: 10px;
-        -moz-column-fill: auto;
-        column-count: 1;
-        column-gap: 15px;
-        column-fill: auto;
-    }
 }
 
-@media screen and (min-width: 420px) {
-    .writings-wrapper {
-        min-width: 420px;
-        margin-top: 2vh;
-        margin-bottom: 15vh;
-    }
+.writings-wrap {
 
-    .writings-columns {
-        -webkit-column-count: 2;
-        -webkit-column-gap: 10px;
-        -moz-column-count: 2;
-        -moz-column-gap: 10px;
-        -moz-column-fill: auto;
-        column-count: 2;
-        column-gap: 15px;
-        column-fill: auto;
-    }
 }
 
+.writings-columns {
+    vertical-align:top;
+    display: flex;
+    flex-wrap: wrap;
+}
 
-
-.writings-tile {
+.writings-tile-form {
     display: inline-block;
-    background: #FEFEFE;
-    border: 2px solid #FAFAFA;
-    box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
-    margin: 0 2px 15px;
-    -webkit-column-break-inside: avoid;
-    -moz-column-break-inside: avoid;
-    column-break-inside: avoid;
-    padding: 15px;
-    padding-bottom: 5px;
-    background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
-    opacity: 1;
-
-    -webkit-transition: all .2s ease;
-    -moz-transition: all .2s ease;
-    -o-transition: all .2s ease;
-    transition: all .2s ease;
+    width: 190px;
+    height: 600px;
+    margin-bottom: 1vh;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
-.writings-tile img {
+.writings-tile-wrap {
+    padding: 5px;
+    background: lightgray;
+
+}
+
+.writings-tile-wrap img {
     width: 100%;
     padding-bottom: 15px;
 }
 
-.writings-tile p {
-    color: #333;
+.writings-tile-wrap p {
+    color: var(--black);
     margin-bottom: 5px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid darkgray;
     padding-bottom: 15px;
 }
 
@@ -97,7 +66,7 @@
 
 .writings-date {
     width: 100%;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid darkgray;
     padding-bottom: 7px;
     margin-bottom: 5px;
     font-size: var(--font-subtitle-embedded);

@@ -1,6 +1,8 @@
-<div class="writings-tile">
-    <div class="writings-title"><a href="{{ include.url }}">{{ include.title }}</a></div>
-    <div class="writings-date">{{ include.date | date: "%Y-%m-%d" }}</div>
-    <p>{{ post.description }}</p>
-    <a href="{{ include.url }}"><img src="{{ include.image_url }}"/></a>
+<div class="writings-tile-form">
+    <div class="writings-tile-wrap">
+        <div class="writings-title"><a href="{{ include.url }}">{{ include.title }}</a></div>
+        <div class="writings-date">{{ include.date | date: "%Y-%m-%d" }}</div>
+        <p>{{ post.description }}</p>
+        <a href="{{ include.url }}"><img src="{{ include.image_url }}"/></a>
+    </div>
 </div>
