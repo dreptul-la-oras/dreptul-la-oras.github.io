@@ -1,5 +1,5 @@
 /*for small screens we use only one single column*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
     .writings-wrapper {
         min-width: 200px;
         margin-top: 2vh;
@@ -18,9 +18,9 @@
     }
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 420px) {
     .writings-wrapper {
-        min-width: 400px;
+        min-width: 420px;
         margin-top: 2vh;
         margin-bottom: 15vh;
     }
