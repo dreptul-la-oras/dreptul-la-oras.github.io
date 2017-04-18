@@ -5,58 +5,103 @@
     left: 0;
     background-color: #000000;
 
-    font-size: 2.5vh;
+    font-size: var(--font-sticky);
 
-    height: 14vh;
+    height: var(--floating-size);
     width: 100%;
-    float: left;
-}
 
-.footer p {
     color: white;
-    margin: 0;
 }
 
-.footer_wrap {
-    width: 60%;
-    height: auto;
-    margin: auto;
+@media (max-width: 420px) {
+    .footer-wrap {
+        display: flex;
+
+        height: var(--floating-size);
+        margin: auto;
+    }
 }
 
-.footer_logo_wrap {
-    max-height: 13vh;
-
-    margin-top: 0.5vh;
-    margin-bottom: 0.5vh;
-    margin-left: 0;
-    margin-right: 5vw;
-    float: left;
+@media (min-width: 420px) {
+    .footer-wrap {
+        display: flex;
+        min-width: 400px;
+        max-width: 800px;
+        height: var(--floating-size);
+        margin: auto;
+    }
 }
 
-.footer_logo {
-    height: 8.5vh;
-    margin: 0;
+.footer-wrap div {
+    padding-right: 5px;
 }
 
-.footer-media-logos-wrap {
-    max-height: 12vh;
-
-    margin-top: 1vh;
-    margin-bottom: 1vh;
-    margin-left: 0;
-    margin-right: 0.75vh;
-    float: none;
-    display: flex;
+.footer-name {
 
 }
 
-.footer-media-logo {
-    height: 50px;
-    width: 50px;
-    margin: 0;
-    float: none;
+.footer-contact {
+
 }
 
-.bottom_margin {
-    margin-bottom: 0.3vh;
+.footer-social-media {
+
 }
+
+.footer-social-media-logo {
+    max-height: calc(var(--floating-size) - 8px);
+}
+
+.footer-sep {
+
+}
+
+/*.footer p {*/
+/*color: white;*/
+/*margin: 0;*/
+/*}*/
+
+/*.footer_wrap {*/
+/*width: 60%;*/
+/*height: auto;*/
+/*margin: auto;*/
+/*display: flex;*/
+/*}*/
+
+/*.footer_logo_wrap {*/
+/*max-height: 13vh;*/
+
+/*margin-top: 0.5vh;*/
+/*margin-bottom: 0.5vh;*/
+/*margin-left: 0;*/
+/*margin-right: 5vw;*/
+/*float: left;*/
+/*}*/
+
+/*.footer_logo {*/
+/*height: 8.5vh;*/
+/*margin: 0;*/
+/*}*/
+
+/*.footer-media-logos-wrap {*/
+/*max-height: 12vh;*/
+
+/*margin-top: 1vh;*/
+/*margin-bottom: 1vh;*/
+/*margin-left: 0;*/
+/*margin-right: 0.75vh;*/
+/*float: none;*/
+/*display: flex;*/
+
+/*}*/
+
+/*.footer-media-logo {*/
+/*height: 50px;*/
+/*width: 50px;*/
+/*margin: 0;*/
+/*float: none;*/
+/*}*/
+
+/*.bottom_margin {*/
+/*margin-bottom: 0.3vh;*/
+/*}*/
