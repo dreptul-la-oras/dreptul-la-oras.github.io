@@ -9,7 +9,7 @@
     --font-subtitle-standalone: 28px;
 
     /*in case you have floating elements on the page, and you need this distinction*/
-    --font-title-embedded: 26px;
+    --font-title-embedded: 24px;
     --font-subtitle-embedded: 20px;
 
     --red: #AA2323;
@@ -44,7 +44,7 @@ html {
 }
 
 .content-commons {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Antwerp", 'Times New Roman', Times, serif;
     font-size: var(--font_normal);
 }
 

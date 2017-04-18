@@ -1,14 +1,15 @@
 .latest-strada {
-    border-bottom: 1px solid #ccc;
+    padding-top: 2vh;
+    padding-bottom: 4vh;
 }
 
 .latest-strada img {
     width: 100%;
+    padding-bottom: 1vh;
 }
 
 .latest-strada p {
     font-size: var(--font-title-standalone);
     margin-top: 0;
-    margin-bottom: 5vh;
     text-align: center;
 }
