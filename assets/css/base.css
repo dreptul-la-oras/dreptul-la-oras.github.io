@@ -3,18 +3,18 @@ html {
     min-height: 100%;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 420px) {
     .content-box {
         width: 90%;
         margin-left: auto;
         margin-right: auto;
 
-        padding-top: 8.2vmax; /*same as header height*/
+        padding-top: 80px; /*same as header height*/
         padding-bottom: 15vh; /*same as header height*/
     }
 }
 
-@media (min-width: 400px) {
+@media (min-width: 420px) {
     .content-box {
         min-width: 400px;
         max-width: 600px;
