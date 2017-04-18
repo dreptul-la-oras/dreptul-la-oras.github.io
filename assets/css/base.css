@@ -55,7 +55,7 @@ body {
         margin-right: auto;
 
         padding-top: var(--header-height-double); /*same as header height*/
-        padding-bottom: var(--footer-height); /*same as header height*/
+        padding-bottom: var(--footer-height-double); /*same as header height*/
     }
 }
 
@@ -78,7 +78,7 @@ body {
         margin-right: auto;
 
         padding-top: var(--header-height-double); /*same as header height*/
-        padding-bottom: var(--footer-height); /*same as header height*/
+        padding-bottom: var(--footer-height-double); /*same as header height*/
     }
 }
 
