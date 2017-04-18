@@ -35,7 +35,6 @@
 .writings-tile-wrap p {
     color: var(--black);
     margin-bottom: 5px;
-    border-bottom: 1px solid var(--gray-light-1);
     padding-bottom: 15px;
 }
 
