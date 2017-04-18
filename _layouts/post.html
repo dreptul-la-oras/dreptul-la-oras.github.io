@@ -4,7 +4,8 @@ layout: main
 
 <div class="post-header">
     <div class="post-header-box">
-        <h1 class="title">{{ page.date | date: "%d %B %Y" }} - {{ page.title }}</h1>
+        <h1 class="title">{{ page.title }}</h1>
+        <p class="description">{{ page.date | date: "%Y-%m-%d" }}</p>
         <p class="description">{{page.description}}</p>
     </div>
 </div>
