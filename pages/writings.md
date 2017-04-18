@@ -1,5 +1,5 @@
 ---
-id: essay
+id: writings
 layout: main
 description: Esee scrise și redactate de Dreptul la Oraș
 keywords: "essay,esee"
