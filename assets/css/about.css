@@ -1,0 +1,7 @@
+.about {
+}
+
+.about h1 {
+    font-size: var(--font-title-standalone);
+    text-align: center;
+}
