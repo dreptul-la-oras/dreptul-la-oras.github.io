@@ -18,6 +18,7 @@ css:
                     date=post.date
                     image_url=post.image.url
                %}
+            {% endfor %}
         </div>
 	</div>
 </div>

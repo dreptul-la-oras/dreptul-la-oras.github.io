@@ -8,7 +8,7 @@
 }
 
 .writings-columns {
-    vertical-align:top;
+    vertical-align: top;
     display: flex;
     flex-wrap: wrap;
 }
@@ -23,9 +23,8 @@
 }
 
 .writings-tile-wrap {
-    padding: 5px;
-    background: lightgray;
-
+    padding: 8px;
+    background: var(--gray-light-10);
 }
 
 .writings-tile-wrap img {
@@ -49,7 +48,7 @@
 }
 
 .writings-title a:hover {
-    background-color: #A9A9A9;
+    background-color: var(--gray-light-4);
 }
 
 .writings-title a:link {

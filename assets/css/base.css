@@ -14,6 +14,12 @@
 
     --red: #AA2323;
     --black: #000000;
+    --gray-light-10: #F0F0F0;
+    --gray-light-9: #F5F5F5;
+    --gray-light-4: #D2D2D2;
+    --gray-light-3: #CDCDCD;
+    --gray-light-2: #C8C8C8;
+    --gray-light-1: #C3C3C3;
 
     --header-height: 40px;
     --header-height-double: 80px;
