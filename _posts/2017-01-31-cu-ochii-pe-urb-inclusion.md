@@ -3,7 +3,7 @@ layout: post
 title:  Cu ochii pe "URB-Inclusion"
 keywords: "urb-inclusion,urb-act,european cities,barcelona,urban development, urbanizare"
 description: >
-  Timișoara participă la un proiect pan-European de îmbunătățire a orașului, și acest lucru ne dă  nouă cetățenilor o cale de implicare civică 
+  Timișoara participă la un proiect pan-european de reducere a inegalităților economice, proiect ce oferă cetățenilor o cale de implicare civică 
 date:   2017-01-31 12:14:33
 categories: article
 image:
