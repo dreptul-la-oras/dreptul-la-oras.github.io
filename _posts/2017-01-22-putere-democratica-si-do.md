@@ -2,7 +2,7 @@
 layout: post
 title:  "Putere democratică și dreptul la oraș"
 keywords: "politica,masinatie statala,statecraft,Murray Bookchin"
-description: "Aici distingem între politică și mașinație statală. Practica politică trebuie recuperată de la politruci profesioniști"
+description: "Aici distingem între politică și mașinație statală. Practica politică trebuie recuperată de la politrucii profesioniști"
 date:   2017-01-22 16:16:01
 categories: essay
 image:  
