@@ -10,7 +10,7 @@ image:
   width: 600
   height: 485
   type: image/jpeg
-  
+
 css:
   - /assets/css/strada.css
 ---
@@ -23,6 +23,9 @@ css:
       Revista se distribuie gratuit și poate fi găsită în următoarele locații din Timișoara:
       <ul>
         <li><a href="https://www.facebook.com/lareciproc.ro/">Reciproc</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://web.facebook.com/ladouabufnite/">La Două Bufnițe</a></li>
       </ul>
     </div>
 </div>
