@@ -27,6 +27,9 @@ css:
       <ul>
         <li><a href="https://web.facebook.com/ladouabufnite/">La Două Bufnițe</a></li>
       </ul>
+      <ul>
+        <li><a href="https://www.facebook.com/ambasadaPLAI/">AMBASADA</a></li>
+      </ul>
     </div>
 </div>
 
