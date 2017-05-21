@@ -1,23 +1,23 @@
 <div class="latest-post">
-    <div class="latest-post-wrap">
+  <div class="latest-post-wrap">
 
-        <div class="latest-post-element">
-            <div class="latest-post-element-left">
-                <a href="{{ site.posts[0].url }}"><img src="{{ site.posts[0].image.url }}"/></a>
-            </div>
-        </div>
-
-        <div class="latest-post-element">
-            <div class="latest-post-element-right">
-                <div class="latest-post-element-right-title">
-                    <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
-                </div>
-                <div class="latest-post-element-right-date">
-                    {{ site.posts[0].date | date: "%Y-%m-%d" }}
-                </div>
-                <p>{{ site.posts[0].description }}</p>
-            </div>
-        </div>
+    <div class="latest-post-element">
+      <div class="latest-post-element-left">
+        <a href="{{ site.posts[0].url }}"><img src="{{ site.posts[0].image.url }}"/></a>
+      </div>
     </div>
-    <div class="latest-post-clear"></div>
+
+    <div class="latest-post-element">
+      <div class="latest-post-element-right">
+        <div class="latest-post-element-right-title">
+          <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
+        </div>
+        <div class="latest-post-element-right-date">
+          {{ site.posts[0].date | date: "%Y-%m-%d" }}
+        </div>
+        <p>{{ site.posts[0].description }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="latest-post-clear"></div>
 </div>
