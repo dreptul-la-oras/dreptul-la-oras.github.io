@@ -23,12 +23,9 @@ css:
       Revista se distribuie gratuit și poate fi găsită în următoarele locații din Timișoara:
       <ul>
         <li><a href="https://www.facebook.com/lareciproc.ro/">Reciproc</a></li>
-      </ul>
-      <ul>
         <li><a href="https://web.facebook.com/ladouabufnite/">La Două Bufnițe</a></li>
-      </ul>
-      <ul>
         <li><a href="https://www.facebook.com/ambasadaPLAI/">AMBASADA</a></li>
+        <li><a href="https://www.facebook.com/Libr%C4%83ria-Cartea-de-Nisip-111674082279164/">Librăria Cartea de Nisip</a></li>
       </ul>
     </div>
 </div>
