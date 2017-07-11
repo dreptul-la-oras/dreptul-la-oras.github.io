@@ -3,7 +3,7 @@ layout: post
 title: Manifest BLOCUL PENTRU LOCUIRE
 keywords: 'politica,locuire,sociala,blocul,timisoara,cluj,bucuresti,fcdl,ERomnja'
 description: >
-  "Blocul pentru locuire" este o confederație de organizații care militează pentru
+  „Blocul pentru Locuire” este o confederație de organizații care militează pentru
   dreptul fiecăruia la o locuință, Dreptul la Oraș fiind una dintre organizațiile
   membre.
 date: 2017-07-11T15:05:01.000Z
