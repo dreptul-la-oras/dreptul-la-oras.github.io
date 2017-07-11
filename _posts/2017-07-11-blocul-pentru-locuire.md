@@ -16,7 +16,7 @@ image:
   height: 398
   type: image/jpeg
 ---
-În perioada de 7-9 iulie 2017, în cadrul forumului [Orașe pentru locuit, nu pentru profit!](https://www.facebook.com/events/1861171767480117/) — organizat în Cluj-Napoca — organizațiile: [Căși Sociale ACUM!](https://www.facebook.com/CasiSocialeACUM/) (o campanie a [Fundației Desire](http://www.desire-ro.eu/)), [E-Romnja](https://www.facebook.com/ERomnja/), [FCDL - Frontul Comun pentru Dreptul la Locuire](https://www.facebook.com/Frontul-Comun-pentru-Dreptul-la-Locuire-675979395796221/) și [Dreptul la Oraș](http://dreptullaorastimisoara.com/) au format un bloc la scală națională care va milita pentru dreptul la locuire pentru toți și toate! Mai jos puteți citi manifestul nostru.
+În perioada 7-9 iulie 2017, în cadrul forumului [Orașe pentru locuit, nu pentru profit!](https://www.facebook.com/events/1861171767480117/) — organizat în Cluj-Napoca — organizațiile: [Căși Sociale ACUM!](https://www.facebook.com/CasiSocialeACUM/) (o campanie a [Fundației Desire](http://www.desire-ro.eu/)), [E-Romnja](https://www.facebook.com/ERomnja/), [FCDL - Frontul Comun pentru Dreptul la Locuire](https://www.facebook.com/Frontul-Comun-pentru-Dreptul-la-Locuire-675979395796221/) și [Dreptul la Oraș](http://dreptullaorastimisoara.com/) au format un bloc la scală națională care va milita pentru dreptul la locuire pentru toți și toate! Mai jos puteți citi manifestul nostru.
 
 BLOCUL PENTRU LOCUIRE
 ======
