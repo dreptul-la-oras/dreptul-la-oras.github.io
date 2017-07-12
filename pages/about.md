@@ -10,7 +10,7 @@ css:
   - /assets/css/about.css
 ---
 <div class="banner-wrap">
-    <img src="/assets/img/cover_do_width_600px.jpg">
+    <img class="banner-img" src="/assets/img/cover_do_width_600px.jpg">
 </div>
 
 <div class="about">
