@@ -21,7 +21,7 @@ image:
 BLOCUL PENTRU LOCUIRE
 ======
 <div class="banner-wrap">
-    <img src="/assets/img/writings/2017-07-11-blocul-pentru-locuire.jpg">
+    <img src="/assets/img/writings/2017-07-11-blocul-pentru-locuire-large.jpg">
 </div>
 
 Capitalismul și formarea pieței de locuințe: cauzele economice și  politice ale precarizării și pauperizării locuirii
@@ -50,6 +50,10 @@ BLOCUL s-a constituit în urma acțiunilor grupurilor militante pentru dreptul l
 BLOCUL este o inițiativă descentralizată de organizații ce luptă pentru împuternicirea și organizarea politică a comunităților în jurul acestor revendicări.
 
 BLOCUL are o structură deschisă celor care acționează pe baza principiilor adoptate și doresc să se implice în acțiunile sale comune.
+
+<div class="banner-wrap">
+    <img src="/assets/img/writings/2017-07-11-blocul-pentru-locuire.jpg">
+</div>
 
 Principii
 -------
