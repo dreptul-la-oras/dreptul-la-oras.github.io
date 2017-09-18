@@ -115,3 +115,7 @@ body {
 .content {
 
 }
+
+.horizontal-line {
+    border-bottom: 1px solid var(--gray-light-1);
+}
