@@ -1,0 +1,28 @@
+.latest-reading-group {
+    padding-top: 2vh;
+    padding-bottom: 4vh;
+}
+
+.latest-reading-group img {
+    width: 100%;
+    padding-bottom: 1vh;
+}
+
+.latest-reading-group h1 {
+    font-size: var(--font-title-standalone);
+    margin-top: 0;
+    text-align: center;
+}
+
+.latest-reading-group-info {
+  padding-bottom: 1vh;
+}
+
+.latest-reading-group-info-title {
+    font-size: var(--font-emphasis-front-page);
+}
+
+.latest-reading-group-info-content {
+    font-size: var(--font_normal);
+    margin-left: 1.5vw
+}
