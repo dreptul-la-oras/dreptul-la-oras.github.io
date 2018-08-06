@@ -17,7 +17,7 @@ css:
 
 <div class="strada-title-wrap">
     <h2>
-       Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor marginalizați ale societății.
+       Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor uitați de societate.
     </h2>
 </div>
 
