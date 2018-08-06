@@ -21,6 +21,6 @@ css:
     </h2>
 </div>
 
-{% include strada/strada_issue_02.html %}
+{% include strada/strada_issue_02_blurb.html %}
 
-{% include strada/strada_issue_01.html %}
+{% include strada/strada_issue_01_blurb.html %}
