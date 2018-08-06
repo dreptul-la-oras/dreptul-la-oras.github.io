@@ -17,17 +17,10 @@ css:
 
 <div class="strada-title-wrap">
     <h2>
-       Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor fără adăpost.
+       Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor marginalizați ale societății.
     </h2>
-    <div>
-      Revista se distribuie gratuit și poate fi găsită în următoarele locații din Timișoara:
-      <ul>
-        <li><a href="https://www.facebook.com/lareciproc.ro/">Reciproc</a></li>
-        <li><a href="https://web.facebook.com/ladouabufnite/">La Două Bufnițe</a></li>
-        <li><a href="https://www.facebook.com/ambasadaPLAI/">AMBASADA</a></li>
-        <li><a href="https://www.facebook.com/Libr%C4%83ria-Cartea-de-Nisip-111674082279164/">Librăria Cartea de Nisip</a></li>
-      </ul>
-    </div>
 </div>
+
+{% include strada/strada_issue_02.html %}
 
 {% include strada/strada_issue_01.html %}
