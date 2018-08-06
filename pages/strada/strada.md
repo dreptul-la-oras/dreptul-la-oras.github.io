@@ -6,7 +6,7 @@ keywords: "revista strada,strada,revista,magazine,primul numar,first issue,homel
 title: Strada
 permalink: /strada.html
 image:
-  url: /assets/img/strada/issue_01/strada_01_cover.jpg
+  url: /assets/img/strada/issue_02/strada_02_cover.jpg
   width: 600
   height: 485
   type: image/jpeg
