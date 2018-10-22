@@ -33,7 +33,7 @@ css:
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - CNAME
