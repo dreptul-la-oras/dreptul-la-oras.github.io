@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 short_description: >
   Un grup din Timișoara, de analiză critică și acțiune directă, care luptă împotriva discriminării și inegalității sociale și economice.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dreptullaorastimisoara.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dreptullaorastimisoara.com" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: Europe/Bucharest
 encoding: utf-8
 
