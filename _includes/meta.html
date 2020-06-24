@@ -1,30 +1,83 @@
-<meta charset="UTF-8">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<meta name="author" content="{{ site.author }}">
-<meta name="keywords" content="{% if page.keywords %}{{page.keywords}},{% endif %}{{site.keywords}}">
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.short_description }}{% endif %}">
+<meta name="author" content="{{ site.author }}" />
+<meta
+  name="keywords"
+  content="{% if page.keywords %}{{page.keywords}},{% endif %}{{site.keywords}}"
+/>
+<meta
+  name="description"
+  content="{% if page.description %}{{ page.description }}{% else %}{{ site.short_description }}{% endif %}"
+/>
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- describes the stuff to be included in an eventual website graph link. i.e. when someone shares this page on facebook -->
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.short_description }}{% endif %}">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
-<meta property="og:type" content="website">
-<meta property="og:url" content="{{ site.url }}{% if page.permalink %}{{ page.permalink }}{% else %}{{ page.url }}{% endif %}">
-<meta property="og:image" content="{{ site.url }}{% if page.image.url %}{{ page.image.url }}{% else %}{{ site.path_logos }}/do_logo_red_on_black.png{% endif %}">
-<meta property="og:image:type" content="{% if page.image.type %}{{ page.image.type }}{% else %}image/png{% endif %}">
-<meta property="og:image:width" content="{% if page.image.width %}{{ page.image.width }}{% else %}500{% endif %}">
-<meta property="og:image:height" content="{% if page.image.height %}{{ page.image.height }}{% else %}500{% endif %}">
+<meta
+  property="og:description"
+  content="{% if page.description %}{{ page.description }}{% else %}{{ site.short_description }}{% endif %}"
+/>
+<meta
+  property="og:title"
+  content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}"
+/>
+<meta property="og:type" content="website" />
+<meta
+  property="og:url"
+  content="{{ site.url }}{% if page.permalink %}{{ page.permalink }}{% else %}{{ page.url }}{% endif %}"
+/>
+<meta
+  property="og:image"
+  content="{{ site.url }}{% if page.image.url %}{{ page.image.url }}{% else %}{{ site.path_logos }}/do_logo_red_on_black.png{% endif %}"
+/>
+<meta
+  property="og:image:type"
+  content="{% if page.image.type %}{{ page.image.type }}{% else %}image/png{% endif %}"
+/>
+<meta
+  property="og:image:width"
+  content="{% if page.image.width %}{{ page.image.width }}{% else %}500{% endif %}"
+/>
+<meta
+  property="og:image:height"
+  content="{% if page.image.height %}{{ page.image.height }}{% else %}500{% endif %}"
+/>
 
 <!-- these are the favicons for various platforms -->
-<meta name="msapplication-config" content="{{site.url}}{{site.path_favicons}}/browserconfig.xml">
-<link rel="shortcut icon" type="image/x-icon" href="{{site.url}}{{site.path_favicons}}/favicon.ico">
-<link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}{{site.path_favicons}}/apple-touch-icon.png">
-<link rel="icon" type="image/png" href="{{site.url}}{{site.path_favicons}}/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="{{site.url}}{{site.path_favicons}}/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="{{site.url}}{{site.path_favicons}}/manifest.json">
-<link rel="mask-icon" href="{{site.url}}{{site.path_favicons}}/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="theme-color" content="#ffffff"> {% for css in site.css %}
-<link href="{{ css }}" rel="stylesheet" type="text/css"> {% endfor %} {% for css in page.css %}
-<link href="{{ css }}" rel="stylesheet" type="text/css"> {% endfor %}
+<meta
+  name="msapplication-config"
+  content="{{site.url}}{{site.path_favicons}}/browserconfig.xml"
+/>
+<link
+  rel="shortcut icon"
+  type="image/x-icon"
+  href="{{site.url}}{{site.path_favicons}}/favicon.ico"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{site.url}}{{site.path_favicons}}/apple-touch-icon.png"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  href="{{site.url}}{{site.path_favicons}}/favicon-32x32.png"
+  sizes="32x32"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  href="{{site.url}}{{site.path_favicons}}/favicon-16x16.png"
+  sizes="16x16"
+/>
+<link rel="manifest" href="{{site.url}}{{site.path_favicons}}/manifest.json" />
+<link
+  rel="mask-icon"
+  href="{{site.url}}{{site.path_favicons}}/safari-pinned-tab.svg"
+  color="#5bbad5"
+/>
+<meta name="theme-color" content="#ffffff" /> {% for css in site.css %}
+<link href="{{ css }}" rel="stylesheet" type="text/css" /> {% endfor %} {% for
+css in page.css %} <link href="{{ css }}" rel="stylesheet" type="text/css" /> {%
+endfor %}

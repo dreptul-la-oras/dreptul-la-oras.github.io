@@ -1,18 +1,23 @@
 <div class="floating-header">
   <div class="floating-header-wrap">
-
     <div class="floating-header-logo">
       <a href="{{ site.url }}">
-        <img src="{{ site.url }}/{{ site.path_logos }}/do_logo_red_on_zclear_100x100.png"
-             class="floating-header-logo">
+        <img
+          src="{{ site.url }}/{{ site.path_logos }}/do_logo_red_on_zclear_100x100.png"
+          class="floating-header-logo"
+        />
       </a>
     </div>
 
     <div class="floating-header-menu-item">
       {% if page.id == "writings" %}
-        <p class="red-background"><a href="{{ site.url }}/writings.html">TEXTE</a></p>
+      <p class="red-background">
+        <a href="{{ site.url }}/writings.html">TEXTE</a>
+      </p>
       {% else %}
-        <p class="highlightable"><a href="{{ site.url }}/writings.html">TEXTE</a></p>
+      <p class="highlightable">
+        <a href="{{ site.url }}/writings.html">TEXTE</a>
+      </p>
       {% endif %}
     </div>
 
@@ -22,9 +27,13 @@
 
     <div class="floating-header-menu-item">
       {% if page.id == "strada" %}
-        <p class="red-background"><a href="{{ site.url }}/strada.html">REVISTA STRADA</a></p>
+      <p class="red-background">
+        <a href="{{ site.url }}/strada.html">REVISTA STRADA</a>
+      </p>
       {% else %}
-        <p class="highlightable"><a href="{{ site.url }}/strada.html">REVISTA STRADA</a></p>
+      <p class="highlightable">
+        <a href="{{ site.url }}/strada.html">REVISTA STRADA</a>
+      </p>
       {% endif %}
     </div>
 
@@ -34,11 +43,14 @@
 
     <div class="floating-header-menu-item">
       {% if page.id == "about" %}
-        <p class="red-background"><a href="{{ site.url }}/about.html">DESPRE NOI</a></p>
+      <p class="red-background">
+        <a href="{{ site.url }}/about.html">DESPRE NOI</a>
+      </p>
       {% else %}
-        <p class="highlightable"><a href="{{ site.url }}/about.html">DESPRE NOI</a></p>
+      <p class="highlightable">
+        <a href="{{ site.url }}/about.html">DESPRE NOI</a>
+      </p>
       {% endif %}
     </div>
-
   </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cu ochii pe "URB-Inclusion"
-keywords: 'urb-inclusion,urb-act,european cities,barcelona,urban development, urbanizare'
+keywords: "urb-inclusion,urb-act,european cities,barcelona,urban development, urbanizare"
 description: >
   Timișoara participă la un proiect pan-european de reducere a inegalităților
   economice, proiect ce oferă cetățenilor o cale de implicare civică
