@@ -1,12 +1,12 @@
 ---
 id: strada
 layout: main
-description: În Timișoara trăiesc oameni fără adăpost, abandonați de familie, prieteni și societate. Credem că este important să aducem această realitate la vedere, deoarece prin conștientizare, expunere și informare putem construi împreună o societate mai echitabilă.
+description: Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor uitați de societate.
 keywords: "revista strada,strada,revista,magazine,primul numar,first issue,homelessness,poverty,saracia"
 title: Strada
 permalink: /strada.html
 image:
-  url: /assets/img/strada/issue_02/strada_02_cover.jpg
+  url: /assets/img/strada/issue_04/strada_04_cover.jpg
   width: 600
   height: 485
   type: image/jpeg
@@ -20,6 +20,7 @@ css:
        Strada este o revistă realizată cu scopul de a face cunoscute problemele de zi cu zi ale oamenilor uitați de societate.
     </h2>
 </div>
+{% include strada/strada_issue_04_blurb.html %}
 
 {% include strada/strada_issue_02_blurb.html %}
 
