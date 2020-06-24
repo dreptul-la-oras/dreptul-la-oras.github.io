@@ -15,7 +15,7 @@ image:
   type: image/jpeg
 ---
 
-This article is a translation from the original version in Romanian which can also be found in the online version of [Cărămida #4 — Muncă capital și Locuire](http://www.desire-ro.eu/?p=3557). Or here on our own website.
+This article is a translation from the original version in Romanian which can also be found in the online version of [Cărămida #4 — Muncă capital și Locuire](https://www.desire-ro.eu/?p=3557). Or here on our own website.
 
 As a note to the translation, "the city along the banks of the river Bega" is a well-known local way of referring to the [city of Timișoara](https://en.wikipedia.org/wiki/Timi%C8%99oara).
 

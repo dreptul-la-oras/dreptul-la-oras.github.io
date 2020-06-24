@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 
 <html>
+  <head prefix="og: http://ogp.me/ns#">
+    {% include meta.html %}
 
-<head prefix="og: http://ogp.me/ns#">
-  {% include meta.html %}
+    <title>
+      {% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}
+    </title>
+  </head>
 
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-
-</head>
-
-<body>
-
-  <div class="wider-content-box content-commons">
-    {% include header.html %}
-    <div class="content">{{ content }}</div>
-    {% include footer.html %}
-  </div>
-
-</body>
-
+  <body>
+    <div class="wider-content-box content-commons">
+      {% include header.html %}
+      <div class="content">{{ content }}</div>
+      {% include footer.html %}
+    </div>
+  </body>
 </html>

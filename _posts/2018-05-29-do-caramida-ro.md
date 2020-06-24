@@ -15,7 +15,7 @@ image:
   type: image/jpeg
 ---
 
-Varianta online a revistei [Cărămida #4 — Muncă capital și Locuire](http://www.desire-ro.eu/?p=3557).
+Varianta online a revistei [Cărămida #4 — Muncă capital și Locuire](https://www.desire-ro.eu/?p=3557).
 
 ------
 

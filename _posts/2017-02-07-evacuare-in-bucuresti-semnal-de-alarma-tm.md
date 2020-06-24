@@ -35,4 +35,4 @@ Avem nevoie urgentă de mai multe locuințe sociale! În București, în Timisoa
 Al tău, Dreptul la Oraș!
 
 [1] [Documentarea video a evacuării](https://www.facebook.com/madalina.rosca.96/posts/10154918137453608)<br>
-[2] [Legea 202 din 2010, Art. 578.1](http://www.dreptonline.ro/legislatie/legea_202_2010_masuri_pentru_accelerarea_solutionarii_proceselor_mica_reforma_a_justitiei.php)
+[2] [Legea 202 din 2010, Art. 578.1](https://web.archive.org/web/20181120061802/http://www.dreptonline.ro/legislatie/legea_202_2010_masuri_pentru_accelerarea_solutionarii_proceselor_mica_reforma_a_justitiei.php)
