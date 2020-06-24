@@ -23,11 +23,11 @@ Acest demers arată o crasă neînțelegere a priorităților acestui oraș și 
 
 Faceți-vă puțin timp și semnați petiția online; [4] semnați și petiția fizică, petiție ce poate fi depusă la primărie [5]. Și mai important este însă să găsim împreună forme de organizare și acțiune prin care, pe de-o parte, să prevenim apariția unor astfel de inițiative nedemocratice, iar pe de altă parte, să ne cerem dreptul de a influența aceste decizii.
 
-[1] [primariatm.ro: Anunț de Participare publicat în SEAP cu numărul 174722/15.04.2017](http://www.primariatm.ro/uploads/files/achizitii_publice_2017/Anunt_part_174722_15_04_2017.pdf)
+[1] [primariatm.ro: Anunț de Participare publicat în SEAP cu numărul 174722/15.04.2017](https://www.primariatm.ro/uploads/files/achizitii_publice_2017/Anunt_part_174722_15_04_2017.pdf)
 
-[2] [pressalert.ro: Proiectul lui Robu, fântâna cu jocuri de lumini pe Bega, studiu de fezabilitate de 115.000 de lei fără TVA.](http://www.pressalert.ro/2016/05/proiectul-lui-robu-fantana-cu-jocuri-de-lumini-pe-bega-studiu-de-fezabilitate-de-115-000-de-lei-fara-tva-ce-controversa-exista/)
+[2] [pressalert.ro: Proiectul lui Robu, fântâna cu jocuri de lumini pe Bega, studiu de fezabilitate de 115.000 de lei fără TVA.](https://web.archive.org/web/20170528105717/http://www.pressalert.ro/2016/05/proiectul-lui-robu-fantana-cu-jocuri-de-lumini-pe-bega-studiu-de-fezabilitate-de-115-000-de-lei-fara-tva-ce-controversa-exista/)
 
-[3] [digi24.ro: Petiţie împotriva fântânii din Parcul Botanic](http://www.digi24.ro/regional/727309-727309)
+[3] [digi24.ro: Petiţie împotriva fântânii din Parcul Botanic](https://www.digi24.ro/regional/727309-727309)
 
 [4] [www.petitieonline.com: NU vrem Fântână Muzicală în Parcul Botanic Timişoara](https://www.petitieonline.com/nu_vrem_fantan_muzical_in_parcul_botanic_timioara#form)
 

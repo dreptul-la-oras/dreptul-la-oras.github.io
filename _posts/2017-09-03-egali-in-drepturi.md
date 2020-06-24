@@ -32,14 +32,14 @@ Recunoașterea și acceptarea diferențelor este o dimensiune fundamentală a un
 
 Ne opunem oricăror forme de discriminare. Ne opunem oricăror derapaje de acest fel, care nu recunosc și privează oamenii de libertățile lor fundamentale.  Credem într-o societate incluzivă, care respectă şi garantează aceste drepturi, în care cei marginalizaţi au o voce [8] și în care cei fără de putere au puterea de a-şi defini viitorul.
 
-[1] [http://www.cdep.ro/pls/steno/evot.nominal?idv=16700&idl=1](http://www.cdep.ro/pls/steno/evot.nominal?idv=16700&idl=1)  
+[1] [http://www.cdep.ro/pls/steno/evot.nominal?idv=16700&idl=1](https://web.archive.org/web/20180824144322/http://www.cdep.ro/pls/steno/evot.nominal?idv=16700&idl=1)  
 
 [2]  Documentul "Forma adoptată de Cameră", din cadrul propunerii legislative (iniţiativă cetăţenească) privind revizuirea Constituţiei României.  
- [http://www.cdep.ro/pls/proiecte/upl_pck.proiect?idp=16176](http://www.cdep.ro/pls/proiecte/upl_pck.proiect?idp=16176)  
+ [http://www.cdep.ro/pls/proiecte/upl_pck.proiect?idp=16176](https://web.archive.org/web/20170301135955/http://www.cdep.ro/pls/proiecte/upl_pck.proiect?idp=16176)  
 
-[3] Constituția României, Art. 48. [http://www.constitutiaromaniei.ro/art-48-familia/](http://www.constitutiaromaniei.ro/art-48-familia/)  
+[3] Constituția României, Art. 48. [http://www.constitutiaromaniei.ro/art-48-familia/](https://web.archive.org/web/20170818194255/http://www.constitutiaromaniei.ro/art-48-familia/)  
 
-[4] Articol Vice: Toate mizeriile spuse de preoți și parlamentari români la conferința anti-gay din Parlament. [https://www.vice.com/ro/article/mizeriile-spuse-de-preoti-si-parlamentari-romani-la-conferinta-anti-gay](http://www.constitutiaromaniei.ro/art-48-familia/)  
+[4] Articol Vice: Toate mizeriile spuse de preoți și parlamentari români la conferința anti-gay din Parlament. [https://www.vice.com/ro/article/mizeriile-spuse-de-preoti-si-parlamentari-romani-la-conferinta-anti-gay](https://www.vice.com/ro/article/ez3qd4/mizeriile-spuse-de-preoti-si-parlamentari-romani-la-conferinta-anti-gay)  
 
 [5] [https://www.facebook.com/rezistenta/photos/a.451543261586610.1073741826.451541878253415/1059994410741489/?type=3&pnref=story](https://www.facebook.com/rezistenta/photos/a.451543261586610.1073741826.451541878253415/1059994410741489/?type=3&pnref=story)  
 
